@@ -5,15 +5,15 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 ### Projects
 
 ### Education
-- University of California, Berkeley  -  Class 2022
-- City College of San Francisco  -  Class 2020
-
+- University of California, Berkeley
 <ul>
-  
-    _A.S. in Mathematics (with Highest Honors)_
-    _A.S. in Computer Science (with Highest Honors)_
-    _A.A. in Liberal Studies with emphasis in Science and Mathematics_
-  
+  _major in Electrical Engineering and Computer Science (Class 2022)_
+</ul>
+- City College of San Francisco  -  Class 2020
+<ul>
+  _A.S. in Mathematics (with Highest Honors)_
+  _A.S. in Computer Science (with Highest Honors)_
+  _A.A. in Liberal Studies with emphasis in Science and Mathematics_
 </ul>
 
 ### Employment
