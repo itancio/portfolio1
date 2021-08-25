@@ -9,11 +9,11 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 - City College of San Francisco  -  Class 2020
 
 <ul>
-  <li>
+  
     _A.S. in Mathematics (with Highest Honors)_
     _A.S. in Computer Science (with Highest Honors)_
     _A.A. in Liberal Studies with emphasis in Science and Mathematics_
-  </li>
+  
 </ul>
 
 ### Employment
