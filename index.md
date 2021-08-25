@@ -10,9 +10,9 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 <ul>
   <li>
-    <p>_A.S. in Mathematics (with Highest Honors)_</p>
-    <p>_A.S. in Computer Science (with Highest Honors)_</p>
-    <p>_A.A. in Liberal Studies with emphasis in Science and Mathematics_</p>
+    _A.S. in Mathematics (with Highest Honors)_
+    _A.S. in Computer Science (with Highest Honors)_
+    _A.A. in Liberal Studies with emphasis in Science and Mathematics_
   </li>
 </ul>
 
