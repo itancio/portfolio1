@@ -6,9 +6,9 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 ### Education
 - University of California, Berkeley
-<ul>
+<pre>
   _major in Electrical Engineering and Computer Science (Class 2022)_
-</ul>
+</pre>
 - City College of San Francisco  -  Class 2020
 <ul>
   _A.S. in Mathematics (with Highest Honors)_
