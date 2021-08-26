@@ -1,5 +1,5 @@
 # Irvin Tancioco
-
+<img src="profile.jpg">
 I am a student at the University of California, Berkeley majoring in Electrical Engineering and Computer Science of class 2022. I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I want to explore the application of Machine Learning/ Artificial Intelligence in the field of Robotics, and Virtual Reality (AR/MR).
 
 ### Projects
@@ -23,11 +23,14 @@ Electrical Engineering and Computer Science
 
 ### Skills
 <img src="python.png" width = "50" lenght = "50">
-<img src="logo1.png" width = "50" lenght = "50">
 <img src="java.png" width = "50" lenght = "50">
 <img src="cplusplus.png" width = "50" lenght = "50">
 <img src="jupyter.png" width = "50" lenght = "50">
-<img src="profile.jpg" width = "50" lenght = "50">
+<img src="photoshop.png" width = "50" lenght = "50">
+<img src="illustrator.png" width = "50" lenght = "50">
+<img src="dreamweaver.png" width = "50" lenght = "50">
+<img src="wordpress.png" width = "50" lenght = "50">
+
   
 ### Coursework
 - CS61AB: Structure and Interpretation of Computer Programs and Data Structure
