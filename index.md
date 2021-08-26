@@ -8,17 +8,27 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 
 <b>University of California, Berkeley</b>
+<ul>
 Electrical Engineering and Computer Science (Class 2022)
+</ul>
 
 <b>City College of San Francisco (Class 2020)</b>
 <ul>
-  A.S. in Mathematics (with Highest Honors)
-  A.S. in Computer Science (with Highest Honors)
+  A.S. in Mathematics (with Highest Honors); 
+  A.S. in Computer Science (with Highest Honors); 
   A.A. in Liberal Studies with emphasis in Science and Mathematics
 </ul>
 
-### Employment
+<br>
+
 ### Skills
+<img src="python.png" width = "50" lenght = "50">
+<img src="logo.png" width = "50" lenght = "50">
+<img src="java.png" width = "50" lenght = "50">
+<img src="cplusplus.png" width = "50" lenght = "50">
+<img src="jupyter.png" width = "50" lenght = "50">
+<img src="profile.png" width = "50" lenght = "50">
+  
 ### Coursework
 - CS61AB: Structure and Interpretation of Computer Programs and Data Structure
 - CS16AB: Designing Information Devices and Systems 
