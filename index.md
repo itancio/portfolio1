@@ -26,5 +26,5 @@ major in Electrical Engineering and Computer Science (Class 2022)
 
 
 ![Image](logo-3.jpg)
-![Image](netflix.gif)
+![Image](bg.gif)
 <video src="https://www.youtube.com/watch?v=3LopI4YeC4I" width="400" height="300">youbute
