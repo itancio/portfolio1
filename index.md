@@ -10,6 +10,11 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <br>
 <div class="border-round"> Ants Vs. Bees
 </div>
+<br>
+<div class="border-round"> Sixt33n
+</div>
+<div class="border-round"> Balancing Robot
+</div>
 
 ### Education
 
