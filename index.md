@@ -6,6 +6,7 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 ### Projects
 <div class="border-round"> Cookie Monster
+  Project Description: This is a game development that generates a 2D world and player interaction with collectible items. I worked specifically on the interactivity of the program.
 </div>
 <br>
 <div class="border-round"> Ants Vs. Bees
