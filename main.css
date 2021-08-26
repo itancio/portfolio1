@@ -2,7 +2,7 @@
 div.border-round {
   margin: 10 px;
   border: 1px solid grey;
-  border-radius: 5 px;
+  border-radius: 10 px;
   background-color: #f7f9fa;
   width: 250 px;
 }
