@@ -55,6 +55,5 @@ Electrical Engineering and Computer Science
 ### Projects
 
 
-![Image](logo-3.jpg)
 ![Image](bg.gif)
-<video src="https://www.youtube.com/watch?v=3LopI4YeC4I" width="400" height="300">youbute
+
