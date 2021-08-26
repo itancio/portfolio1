@@ -1,7 +1,7 @@
 
-.border-round {
+div.border-round {
   border-style: solid;
   border-radius: 12 px;
   padding: 6 px;
-  color: red;
+  color: gray;
 }
