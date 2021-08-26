@@ -6,16 +6,33 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 ### Projects
 <div class="border-round"> Cookie Monster
-  Project Description: This is a game development that generates a 2D world and player interaction with collectible items. I worked specifically on the interactivity of the program. <a href="https://github.com/itancio/cookiemonster"> github link </a>
+  <p>Project Description: This is a game development that generates a 2D world and player interaction with collectible items. I worked specifically on the interactivity of the program. <a href="https://github.com/itancio/cookiemonster"> github link </a></p>
 </div>
 <br>
 <div class="border-round"> Ants Vs. Bees
+  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href=""> github link </a></p>
+</div>
+<br>
+<div class="border-round"> Conway (Java)
+</div>
+<br>
+<div class="border-round"> Prof Morag's Game (C++)
+  <p> Project Description: This is a C++ based game project from Professor Morag (CCSF). <a href=""> github link </a></p>
 </div>
 <br>
 <div class="border-round"> Sixt33n
 </div>
 <br>
 <div class="border-round"> Balancing Robot
+</div>
+<br>
+<div class="border-round"> Logo Designs
+</div>
+<br>
+<div class="border-round"> Peninsula Ballet Ads (Peter Pan, Nutcracker)
+</div>
+<br>
+<div class="border-round"> Website (Futura's, Brasil Trend, etc)
 </div>
 <br>
 
