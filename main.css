@@ -1,9 +1,8 @@
 
 div.border-round {
-  margin: 5 px;
+  margin: 10 px;
   border: 1px solid grey;
-  border-radius: 25% 10%;
-  padding: 5 px;
+  border-radius: 5 px;
   background-color: #f7f9fa;
   width: 250 px;
 }
