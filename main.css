@@ -1,8 +1,9 @@
 
 div.border-round {
-  border-style: solid;
-  border-radius: 12 px;
-  padding: 6 px;
-  color: gray;
-  background-color: darkgray;
+  margin: 5 px;
+  border: 1px solid grey;
+  border-radius: 6 px;
+  padding: 5 px;
+  background-color: lightgrey;
+  fontcolor: 
 }
