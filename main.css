@@ -5,4 +5,5 @@ div.border-round {
   border-radius: 25% 10%;
   padding: 5 px;
   background-color: #f7f9fa;
+  width: 250 px;
 }
