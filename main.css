@@ -1,3 +1,7 @@
 body {
   background-color: lightblue;
 }
+
+.rounded {
+  border-radius: 16;
+  color: black;
