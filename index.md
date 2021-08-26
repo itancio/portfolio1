@@ -23,11 +23,11 @@ Electrical Engineering and Computer Science (Class 2022)
 
 ### Skills
 <img src="python.png" width = "50" lenght = "50">
-<img src="logo.png" width = "50" lenght = "50">
+<img src="logo1.png" width = "50" lenght = "50">
 <img src="java.png" width = "50" lenght = "50">
 <img src="cplusplus.png" width = "50" lenght = "50">
 <img src="jupyter.png" width = "50" lenght = "50">
-<img src="profile.png" width = "50" lenght = "50">
+<img src="profile.jpg" width = "50" lenght = "50">
   
 ### Coursework
 - CS61AB: Structure and Interpretation of Computer Programs and Data Structure
