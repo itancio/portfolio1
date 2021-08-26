@@ -8,7 +8,7 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <div class="border-round"> Cookie Monster
 </div>
 <br>
-<div class="round"> Ants Vs. Bees
+<div class="border-round"> Ants Vs. Bees
 </div>
 
 ### Education
