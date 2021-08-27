@@ -4,6 +4,9 @@
 
 I am a student at the University of California, Berkeley majoring in Electrical Engineering and Computer Science of class 2022. I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I want to explore the application of Machine Learning/ Artificial Intelligence in the field of Robotics, and Virtual Reality (AR/MR).
 
+<a href="https://github.com/itancio/resume#:~:text=Resume8_IrvinTancioco-2.pdf">Resume</a>
+
+
 ### Projects
 <div class="border-round" margin=20> 
   <h4> Cookie Monster </h4>
