@@ -9,12 +9,22 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <br>
 <br>
 
-### Experience
+### Summary
 
-### Education
+### Skills
 
-<b>University of California, Berkeley (Class 2022)</b>
+<img src="img/python.png" width = "50">
+<img src="img/java.png" width = "50">
+<img src="img/cplusplus.png" width = "50">
+<img src="img/jupyter.png" width = "50">
+<img src="img/photoshop.png" width = "50">
+<img src="img/illustrator.png" width = "50">
+<img src="img/dreamweaver.png" width = "50">
+<img src="img/wordpress.png" width = "50">
+
+
 <ul>
+<b>University of California, Berkeley (Class 2022)</b>
 Electrical Engineering and Computer Science
 </ul>
 
@@ -113,16 +123,7 @@ Electrical Engineering and Computer Science
 
 
 
-### Skills
 
-<img src="img/python.png" width = "50">
-<img src="img/java.png" width = "50">
-<img src="img/cplusplus.png" width = "50">
-<img src="img/jupyter.png" width = "50">
-<img src="img/photoshop.png" width = "50">
-<img src="img/illustrator.png" width = "50">
-<img src="img/dreamweaver.png" width = "50">
-<img src="img/wordpress.png" width = "50">
 
   
 
