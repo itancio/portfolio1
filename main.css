@@ -4,6 +4,11 @@ img.side {
   width: 150px;
 }
 
+img.portfolio {
+  width: 300;
+  margin: 10px;
+}
+
 div.border-round {
   margin-bottom: 20px;
   padding: 10px;
