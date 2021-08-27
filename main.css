@@ -5,7 +5,8 @@ img.side {
 }
 
 img.portfolio {
-  width: 150;
+  float: left;
+  width: 100;
   margin: 10px;
 }
 
