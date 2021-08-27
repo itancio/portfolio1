@@ -20,14 +20,14 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 </div>
 
 <div class="border-round"> 
-  <h4> Scheme </h4>
+  <h4> Ants vs. Some Bees </h4>
   <p><img class="side" src="img/ants.png">
   <p>Project Description: 
   <a href="https://github.com/itancio/scheme"> github link </a>
   </p>
 </div>
 
-<div class="border-round"> Ants vs. Some Bees
+<div class="border-round"> Scheme
   <p>Project Description:  
   <a href="https://github.com/itancio/ants"> github link </a>
   </p>
