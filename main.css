@@ -4,8 +4,8 @@ p.description {
 
 div.border-round {
   margin: 10 px;
-  padding: 10 px;
-  border: 1px solid lightgrey;
+  padding: 10px;
+  border: 1px solid #424a57;
   border-radius: 10 px;
   background-color: #f7f9fa;
   width: 250 px;
