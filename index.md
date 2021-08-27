@@ -9,7 +9,9 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 ### Projects
 <div class="border-round" margin=20> 
   <h4> Cookie Monster </h4>
-  <p>Project Description: This is a game development that generates a 2D world and player interaction with collectible items. I worked specifically on the interactivity of the program. <a href="https://github.com/itancio/cookiemonster"> github link </a> <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE"> demo video </a></p>
+  <p>Project Description: This is a game development that generates a 2D world and player interaction with collectible items. I worked specifically on the interactivity of the program. 
+    <a href="https://github.com/itancio/cookiemonster"> github link </a> 
+    <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE">  |   demo video </a></p>
 </div>
 
 <div class="border-round"> 
