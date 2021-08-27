@@ -77,9 +77,15 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <div class="border-round"> Peninsula Ballet Ads (Peter Pan, Nutcracker)
 </div>
 <br>
-<div class="border-round"> Website (Futura's, Brasil Trend, etc)
-</div>
-<br>
+
+### Graphic Works
+<img class="portfolio" src="img/trendbrasil.png">
+<img class="portfolio" src="img/saki.png">
+<img class="portfolio" src="img/maker1.png">
+<img class="portfolio" src="img/maker2.png">
+<img class="portfolio" src="img/immig.png">
+<img class="portfolio" src="img/futuras.png">
+<img class="portfolio" src="img/gala.png">
 
 ### Education
 
