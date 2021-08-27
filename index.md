@@ -6,6 +6,9 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 <a href="https://github.com/itancio/resume/blob/64a1b69bacad01ee10c502a76cd7579dc3f75f9e/Resume8_IrvinTancioco-2.pdf" download>Download Resume</a>
 
+<br>
+<br>
+
 ### Projects
 <div class="border-round" margin=20 width=10>
   <img style="float: left; src="img/cookiemonster.jpg">
