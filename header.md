@@ -6,6 +6,7 @@
     <p> https://itancio.github.io/portfolio/</p>
     <p class="view"><a href="https://github.com/itancio/portfolio">
       "View the Project on Github "
+      Here you go
       <small>itancio/portfolio</small>
       </a>
     </p>
