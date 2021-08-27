@@ -22,7 +22,7 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <div class="border-round"> 
   <h4> Ants vs. Some Bees </h4>
   <p><img class="side" src="img/ants.png">
-  <p>Project Description: 
+  <p>Project Description: (photo credit: Jessica Wan)
   <a href="https://github.com/itancio/scheme"> github link </a>
   </p>
 </div>
