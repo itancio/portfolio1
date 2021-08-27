@@ -11,9 +11,9 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 ### Summary
 <ul>
-  <h4> Experience </h4>
-  <li> Tax Preparer. Self-Employed. Jan 2015 - Present </li>
-  <li> Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017 </li>
+  <ul> <h4> Experience </h4>
+  <p> Tax Preparer. Self-Employed. Jan 2015 - Present </p>
+  <p> Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017 </p>
   <h4> Education </h4>
   <li> University of California, Berkeley. EECS. Class 2022 </li>
   <li> City College of San Francisco. Associates. Graduated Spring 2020 </li>
