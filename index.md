@@ -9,7 +9,6 @@ I am a student at the University of California, Berkeley majoring in Electrical 
   <h4> Cookie Monster </h4>
   <p class="description">Project Description: This is a game development that generates a 2D world and player interaction with collectible items. I worked specifically on the interactivity of the program. <a href="https://github.com/itancio/cookiemonster"> github link </a></p>
 </div>
-<br>
 
 <div class="border-round"> 
   <h4> Scheme </h4>
@@ -17,49 +16,42 @@ I am a student at the University of California, Berkeley majoring in Electrical 
   <a href="https://github.com/itancio/scheme"> github link </a>
   </p>
 </div>
-<br>
 
 <div class="border-round"> Ants vs. Bees
   <p>Project Description:  
   <a href="https://github.com/itancio/ants"> github link </a>
   </p>
 </div>
-<br>
 
 <div class="border-round"> Cats
   <p>
   <a href="https://github.com/itancio/cats"> github link </a>
   </p>
 </div>
-<br>
 
 <div class="border-round"> Hog
   <p>Project Description:
   <a href="https://github.com/itancio/hog"> github link </a>
   </p>
 </div>
-<br>
 
 <div class="border-round"> Conway
   <p>Project Description: 
   <a href="https://github.com/itancio/conway"> github link </a>
   </p>
 </div>
-<br>
 
 <div class="border-round"> Battleship
   <p>Project Description: 
   <a href="https://github.com/itancio/battleship"> github link </a>
   </p>
 </div>
-<br>
 
 <div class="border-round"> Werewolf
   <p>
   <a href="https://github.com/itancio/werewolf"> github link </a>
   </p>
 </div>
-<br>
 
 <div class="border-round"> Sixt33n
 </div>
