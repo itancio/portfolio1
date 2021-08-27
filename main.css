@@ -1,3 +1,9 @@
+img.side {
+  float: left;
+  margin: 10px;
+  width: 150px;
+}
+
 div.border-round {
   margin-bottom: 20px;
   padding: 10px;
