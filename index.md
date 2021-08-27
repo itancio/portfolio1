@@ -5,7 +5,7 @@
 I am a student at the University of California, Berkeley majoring in Electrical Engineering and Computer Science of class 2022. I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I want to explore the application of Machine Learning/ Artificial Intelligence in the field of Robotics, and Virtual Reality (AR/MR).
 
 ### Projects
-<div class="border-round"> Cookie Monster
+<div class="border-round" margin=20> Cookie Monster
   <p>Project Description: This is a game development that generates a 2D world and player interaction with collectible items. I worked specifically on the interactivity of the program. <a href="https://github.com/itancio/cookiemonster"> github link </a></p>
 </div>
 <br>
