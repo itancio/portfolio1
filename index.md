@@ -54,14 +54,14 @@ Electrical Engineering and Computer Science
 <br>
 
 ### Skills
-<img src="python.png" width = "50">
-<img src="java.png" width = "50">
-<img src="cplusplus.png" width = "50">
-<img src="jupyter.png" width = "50">
-<img src="photoshop.png" width = "50">
-<img src="illustrator.png" width = "50">
-<img src="dreamweaver.png" width = "50">
-<img src="wordpress.png" width = "50">
+<img src="img/python.png" width = "50">
+<img src="img/java.png" width = "50">
+<img src="img/cplusplus.png" width = "50">
+<img src="img/jupyter.png" width = "50">
+<img src="img/photoshop.png" width = "50">
+<img src="img/illustrator.png" width = "50">
+<img src="img/dreamweaver.png" width = "50">
+<img src="img/wordpress.png" width = "50">
 
   
 ### Coursework
@@ -73,5 +73,5 @@ Electrical Engineering and Computer Science
 ### Projects
 
 
-![Image](bg.gif)
+![Image](img/bg.gif)
 
