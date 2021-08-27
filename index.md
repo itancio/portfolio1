@@ -11,45 +11,53 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <br>
 
 <div class="border-round"> Scheme
-  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href="https://github.com/itancio/scheme"> github link </a></p>
+  <p>Project Description: 
+  <a href="https://github.com/itancio/scheme"> github link </a>
+  </p>
 </div>
 <br>
 
 <div class="border-round"> Ants vs. Bees
-  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href="https://github.com/itancio/ants"> github link </a></p>
+  <p>Project Description:  
+  <a href="https://github.com/itancio/ants"> github link </a>
+  </p>
 </div>
 <br>
 
 <div class="border-round"> Cats
-  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href="https://github.com/itancio/cats"> github link </a></p>
+  <p>
+  <a href="https://github.com/itancio/cats"> github link </a>
+  </p>
 </div>
 <br>
 
 <div class="border-round"> Hog
-  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href="https://github.com/itancio/hog"> github link </a></p>
+  <p>Project Description:
+  <a href="https://github.com/itancio/hog"> github link </a>
+  </p>
 </div>
 <br>
 
 <div class="border-round"> Conway
-  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href="https://github.com/itancio/conway"> github link </a></p>
+  <p>Project Description: 
+  <a href="https://github.com/itancio/conway"> github link </a>
+  </p>
 </div>
 <br>
 
 <div class="border-round"> Battleship
-  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href="https://github.com/itancio/battleship"> github link </a></p>
+  <p>Project Description: 
+  <a href="https://github.com/itancio/battleship"> github link </a>
+  </p>
 </div>
 <br>
 
 <div class="border-round"> Werewolf
-  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href="https://github.com/itancio/werewolf"> github link </a></p>
+  <p>
+  <a href="https://github.com/itancio/werewolf"> github link </a>
+  </p>
 </div>
 <br>
-
-<div class="border-round"> Battleship
-  <p>Project Description: This is CS61A project that utilizes HOF, Recursion, etc. <a href="https://github.com/itancio/battleship"> github link </a></p>
-</div>
-<br>
-
 
 <div class="border-round"> Sixt33n
 </div>
