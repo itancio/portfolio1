@@ -24,14 +24,14 @@ I am a student at the University of California, Berkeley majoring in Electrical 
   <h4> Ants vs. Some Bees </h4>
   <p><img class="side" src="img/ants.png">
   Project Description: (photo credit: Jessica Wan)
-  <a href="https://github.com/itancio/scheme"> github link </a>
+  <a href="https://github.com/itancio/ants"> github link </a>
   </p>
   <br>
 </div>
 
 <div class="border-round"> Scheme
   <p>Project Description:  
-  <a href="https://github.com/itancio/ants"> github link </a>
+  <a href="https://github.com/itancio/schemes"> github link </a>
   </p>
 </div>
 
