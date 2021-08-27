@@ -104,12 +104,11 @@ Electrical Engineering and Computer Science
 <br>
 
 ### Graphic Works
+
 <img class="portfolio" src="img/trendbrasil.png">
 <img class="portfolio" src="img/saki.png">
 <img class="portfolio" src="img/maker1.png">
 <img class="portfolio" src="img/maker2.png">
-<img class="portfolio" src="img/immig.png">
-<img class="portfolio" src="img/futuras.png">
 <img class="portfolio" src="img/gala.png">
 
 
