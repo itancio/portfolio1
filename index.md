@@ -6,13 +6,13 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 ### Projects
 <div class="border-round" margin=20> 
-  #### Cookie Monster
+  <h4> Cookie Monster </h4>
   <p class="description">Project Description: This is a game development that generates a 2D world and player interaction with collectible items. I worked specifically on the interactivity of the program. <a href="https://github.com/itancio/cookiemonster"> github link </a></p>
 </div>
 <br>
 
 <div class="border-round"> 
-  #### Scheme
+  <h4> Scheme </h4>
   <p class="description">Project Description: 
   <a href="https://github.com/itancio/scheme"> github link </a>
   </p>
