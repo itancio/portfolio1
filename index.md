@@ -43,7 +43,8 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 <img src="img/dreamweaver.png" width = "50">
 <img src="img/wordpress.png" width = "50">
 
-
+<br>
+<br>
 <!-- Programming Section -->
 
 ## Code
@@ -119,8 +120,9 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 <div class="border-round"> Balancing Robot
 </div>
 
+<br>
 
-### Graphics
+## Desgin
 <!-- Project Graphics -->
 <div class="gallery">
   <div class="thumbnail short"><a href="img/maker1.png">
