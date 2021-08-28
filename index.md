@@ -136,7 +136,7 @@ Electrical Engineering and Computer Science
   <div class="thumbnail"><img class="portfolio" src="img/maker1.png"></div>
   <div class="thumbnail"><img class="portfolio" src="img/maker2.png"></div>
   <div class="thumbnail"><img class="portfolio" src="img/gala.png"></div>
-
+</div>
 
 
 
