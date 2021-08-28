@@ -54,18 +54,19 @@ Electrical Engineering and Computer Science
 
 ### Projects
 
-<div class="border-round" margin=20 width=10>
-  <h4> Cookie Monster </h4>
-  <p><img class="side" src="img/cookiemonster.png">
-  Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on keyboard and mouse input interaction. When user hovers to an element on the board, a text shows displaying description of that element.
-    <a href="https://github.com/itancio/cookiemonster"> github link </a> 
-    <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE">  |   demo video </a>
-  </p>
-  <br>
-</div>
+<!-- Programming Section -->
 
-<!-- Project Gallery Secion -->
 <div class="gallery">
+  <div class="border-round" margin=20 width=10>
+    <h4> Cookie Monster </h4>
+    <p><img class="side" src="img/cookiemonster.png">
+    Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on keyboard and mouse input interaction. When user hovers to an element on the board, a text shows displaying description of that element.
+      <a href="https://github.com/itancio/cookiemonster"> github link </a> 
+      <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE">  |   demo video </a>
+    </p>
+    <br>
+  </div>
+
   <div class="border-round"> 
     <h4> Ants vs. Some Bees </h4>
     <p><img class="side" src="img/ants.png">
@@ -113,20 +114,14 @@ Electrical Engineering and Computer Science
 </div>
 
 
-<!-- Project Robotic -->
+<!-- Blog Projects -->
 
 <div class="border-round"> Sixt33n
 </div>
-<br>
+
 <div class="border-round"> Balancing Robot
 </div>
-<br>
-<div class="border-round"> Logo Designs
-</div>
-<br>
-<div class="border-round"> Peninsula Ballet Ads (Peter Pan, Nutcracker)
-</div>
-<br>
+
 
 ### Graphic Works
 <!-- Project Graphics -->
