@@ -1,6 +1,6 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 
-## Engineer, Software Engineer, Designer, Programmer
+## Electrical Engineering and Computer Science
 
 
 <br>
