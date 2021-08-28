@@ -2,7 +2,7 @@
 
 ## Electrical Engineering and Computer Science Student
 
-## Background
+<h2 id="Background> Background
 <span>
 I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
 <strong>Experience </strong>
@@ -26,7 +26,7 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 <br>
   
 
-## Skills
+## Tools
 
 <img src="img/python.png" width = "50">
 <img src="img/java.png" width = "50">
