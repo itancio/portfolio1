@@ -2,7 +2,7 @@
 
 ## Electrical Engineering and Computer Science Student
 <div>
-  <li> Background </li>
+  <li><a href="#Background"> Background</a></li>
   <li> Coursework </li>
   <li> Code </li>
   <li> Make </li>
