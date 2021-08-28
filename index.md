@@ -1,10 +1,7 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 
-# Engineer, Software Engineer, Designer, Programmer
+## Engineer, Software Engineer, Designer, Programmer
 
-
-
-<a href="Resume8_IrvinTancioco-2.pdf" download>View Resume</a>
 
 <br>
 <br>
