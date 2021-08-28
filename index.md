@@ -12,8 +12,9 @@ University of California, Berkeley. EECS. Class 2022
 City College of San Francisco. Associates. Graduated Spring 2020
 <strong> Volunteer </strong>
 Webmaster / Web Designer. Aug 2013 - Dec 2018
-<p><a href="Resume8_IrvinTancioco-2.pdf">Download <strong>Resume</strong></a></p>
 </span>
+
+<p><a href="Resume8_IrvinTancioco-2.pdf">Download <strong>Resume</strong></a></p>
 
 <br>
 
