@@ -32,7 +32,7 @@
 
 .thumbnail {
   width: 45%;
-  height: 450px;
+  height: 350px;
   vertical-align: middle;
   text-align: center;
   float: left;
@@ -48,6 +48,6 @@
 
 
 .short {
-  height: 150px;
+  height: 160px;
   background-color: red;
 }
