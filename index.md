@@ -1,8 +1,8 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 
-# Irvin Tancioco
+# Engineer, Software Engineer, Designer, Programmer
 
-I am a student at the University of California, Berkeley majoring in Electrical Engineering and Computer Science of class 2022. I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I want to explore the application of Machine Learning/ Artificial Intelligence in the field of Robotics, and Virtual Reality (AR/MR).
+
 
 <a href="Resume8_IrvinTancioco-2.pdf" download>View Resume</a>
 
@@ -11,6 +11,7 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 
 ## Summary
 <span>
+I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
 <strong>Experience </strong>
 Tax Preparer. Self-Employed. Jan 2015 - Present
 Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017
