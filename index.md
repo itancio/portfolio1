@@ -130,14 +130,11 @@ Electrical Engineering and Computer Science
 
 ### Graphic Works
 <!-- Project Graphics -->
-<div>
-  <div class="thumbnail"><img src="img/saki.png"></div>
+<div class="gallery">
   <div class="thumbnail"><img src="img/maker1.png"></div>
   <div class="thumbnail"><img src="img/maker2.png"></div>
+  <div class="thumbnail"><img src="img/saki.png"></div>
   <div class="thumbnail"><img src="img/gala.png"></div>
-  
-  
-  hello world
 </div>
 
 
