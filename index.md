@@ -128,8 +128,6 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
     <img src="img/maker1.png"></a></div>
   <div class="thumbnail short"><a href="img/maker2.png">
     <img src="img/maker2.png"></a></div>
-  <div class="thumbnail short"><a href="img/saki.png">
-    <img src="img/saki.png"></a></div>
   <div class="thumbnail"><a href="img/gala.png">
     <img src="img/gala.png"></a></div>
   <div class="thumbnail"><a href="img/trendbrasil.png">
