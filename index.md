@@ -104,19 +104,19 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 
  
 <!-- Blog Projects -->
-
 ## Make
+<div class="gallery">
+  <div class="border-round"> Sixt33n
+  </div>
 
-<div class="border-round"> Sixt33n
-</div>
-
-<div class="border-round"> Balancing Robot
+  <div class="border-round"> Balancing Robot
+  </div>
 </div>
 
 <br>
 
-## Design
 <!-- Project Graphics -->
+## Design
 <div class="gallery">
   <div class="thumbnail short"><a href="img/maker1.png">
     <img src="img/maker1.png"></a></div>
