@@ -10,7 +10,7 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <br>
 
 ### Summary
-<bold> Experience </bold>
+<strong> Experience </strong>
 <p> Tax Preparer. Self-Employed. Jan 2015 - Present </p>
 <p> Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017 </p>
 <bold> Education </bold>
@@ -56,7 +56,7 @@ Electrical Engineering and Computer Science
 
 <!-- Programming Section -->
 
-## <Code>
+## "<Code>"
 
 <div class="gallery">
   <div class="border-round" margin=20 width=10>
