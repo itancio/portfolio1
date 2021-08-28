@@ -1,15 +1,8 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 
-## Electrical Engineering and Computer Science Student
-<div>
-  <li><a href="#Background"> Background</a></li>
-  <li> Coursework </li>
-  <li> Code </li>
-  <li> Make </li>
-  <li> Design </li>
-</div>
+<h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
 
-<span id="Background">
+<span>
 I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
 <strong>Experience </strong>
 Tax Preparer. Self-Employed. Jan 2015 - Present
