@@ -10,27 +10,14 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <br>
 
 ### Summary
-  <bold> Experience </bold>
-  <p> Tax Preparer. Self-Employed. Jan 2015 - Present </p>
-  <p> Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017 </p>
-  <bold> Education </bold>
-  <p> University of California, Berkeley. EECS. Class 2022 </p>
-  <p> City College of San Francisco. Associates. Graduated Spring 2020 </p>
-  <bold> Volunteer </bold>
-  <p> Webmaster / Web Designer. Aug 2013 - Dec 2018 </p>
-  
-
-### Skills
-
-<img src="img/python.png" width = "50">
-<img src="img/java.png" width = "50">
-<img src="img/cplusplus.png" width = "50">
-<img src="img/jupyter.png" width = "50">
-<img src="img/photoshop.png" width = "50">
-<img src="img/illustrator.png" width = "50">
-<img src="img/dreamweaver.png" width = "50">
-<img src="img/wordpress.png" width = "50">
-
+<bold> Experience </bold>
+<p> Tax Preparer. Self-Employed. Jan 2015 - Present </p>
+<p> Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017 </p>
+<bold> Education </bold>
+<p> University of California, Berkeley. EECS. Class 2022 </p>
+<p> City College of San Francisco. Associates. Graduated Spring 2020 </p>
+<bold> Volunteer </bold>
+<p> Webmaster / Web Designer. Aug 2013 - Dec 2018 </p>
 
 <ul>
 <b>University of California, Berkeley (Class 2022)</b>
@@ -53,7 +40,18 @@ Electrical Engineering and Computer Science
 - CS70: Discrete Mathematics and Probability Theory
 
 <br>
+  
 
+### Skills
+
+<img src="img/python.png" width = "50">
+<img src="img/java.png" width = "50">
+<img src="img/cplusplus.png" width = "50">
+<img src="img/jupyter.png" width = "50">
+<img src="img/photoshop.png" width = "50">
+<img src="img/illustrator.png" width = "50">
+<img src="img/dreamweaver.png" width = "50">
+<img src="img/wordpress.png" width = "50">
 
 
 <!-- Programming Section -->
