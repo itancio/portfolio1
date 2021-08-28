@@ -31,13 +31,13 @@
 }
 
 .thumbnail {
-  width: 50%;
-  height: 250px;
+  width: 45%;
+  height: 450px;
   vertical-align: middle;
   text-align: center;
   float: left;
   margin-top: 35px;
-  background-color: #f7f9fa;
+  background-color: blue;
   padding-bottom: 20px;
   margin-left: 1%;
   margin-right: 1%;
@@ -48,6 +48,6 @@
 
 
 .short {
-  height: 100px;
+  height: 150px;
   background-color: red;
 }
