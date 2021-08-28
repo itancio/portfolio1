@@ -45,3 +45,9 @@
   border-radius: 10px;
   padding-top: 20px;
 }
+
+
+.thumbnail.short {
+  height: 100px;
+  background-color: red;
+}
