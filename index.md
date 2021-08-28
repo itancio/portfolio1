@@ -11,7 +11,7 @@ Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017
 <strong>Education </strong>
 University of California, Berkeley. EECS. Class 2022
 City College of San Francisco. Associates. Graduated Spring 2020
-<bold> Volunteer </bold>
+<strong> Volunteer </strong>
 Webmaster / Web Designer. Aug 2013 - Dec 2018
 </span>
 
