@@ -1,8 +1,14 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 
 ## Electrical Engineering and Computer Science Student
+<div>
+  <li> Background </li>
+  <li> Coursework </li>
+  <li> Code </li>
+  <li> Make </li>
+  <li> Design </li>
 
-<h2 id="Background> Background
+<h2 id="Background"> Background</h2>
 <span>
 I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
 <strong>Experience </strong>
