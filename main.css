@@ -1,3 +1,4 @@
+
 .border-round {
   margin-bottom: 20px;
   padding: 10px;
@@ -51,4 +52,8 @@
   border-radius: 3px;
   padding-top: 20px;
   border-bottom: 4px solid #6DC7D0;
+}
+
+.wrapper {
+  width: 100%;
 }
