@@ -1,7 +1,6 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 
 ## Electrical Engineering and Computer Science Student
-<br>
 
 ## Summary
 <span>
