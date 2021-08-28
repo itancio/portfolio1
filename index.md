@@ -56,7 +56,7 @@ Electrical Engineering and Computer Science
 
 <!-- Programming Section -->
 
-## "<Code>"
+## Code
 
 <div class="gallery">
   <div class="border-round" margin=20 width=10>
@@ -121,7 +121,7 @@ Electrical Engineering and Computer Science
   
 <!-- Blog Projects -->
 
-## <Make>
+## Make
 
 <div class="border-round"> Sixt33n
 </div>
@@ -130,7 +130,7 @@ Electrical Engineering and Computer Science
 </div>
 
 
-### Graphic Works
+### Graphics
 <!-- Project Graphics -->
 <div class="gallery">
   <div class="thumbnail short"><a href="img/maker1.png">
