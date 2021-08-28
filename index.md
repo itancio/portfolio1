@@ -132,7 +132,7 @@ Electrical Engineering and Computer Science
 <!-- Project Graphics -->
 <div class="gallery">
   <div class="thumbnail"><img class="portfolio" src="img/trendbrasil.png"></div>
-  <div class="thumbnail"><img class="portfolio" src="img/trendbrasil.png"></div>
+  <div class="thumbnail"><img class="portfolio" src="img/saki.png"></div>
 
 <img class="portfolio" src="img/saki.png">
 <img class="portfolio" src="img/maker1.png">
