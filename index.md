@@ -52,9 +52,13 @@ Electrical Engineering and Computer Science
 - CS16AB: Designing Information Devices and Systems 
 - CS70: Discrete Mathematics and Probability Theory
 
-### Projects
+<br>
+
+
 
 <!-- Programming Section -->
+
+## <Code>
 
 <div class="gallery">
   <div class="border-round" margin=20 width=10>
@@ -113,8 +117,13 @@ Electrical Engineering and Computer Science
   </div>
 </div>
 
+<br>
 
+  
+  
 <!-- Blog Projects -->
+
+## <Make>
 
 <div class="border-round"> Sixt33n
 </div>
