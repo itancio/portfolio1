@@ -16,15 +16,8 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <img src="img/profile.png" alt="Profile" />
 
-        {% if site.logo %}
-          <img src="img/profile.png" alt="Profile" />
-        show me
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="Resume8_IrvinTancioco-2.pdf">Download <strong>Resume</strong></a></li>
         </ul>
