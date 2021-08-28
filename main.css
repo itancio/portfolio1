@@ -41,9 +41,9 @@
   padding-bottom: 20px;
   margin-left: 1%;
   margin-right: 1%;
+  border: 1px solid #dae2e6;
   border-radius: 10px;
   padding-top: 20px;
-  border-bottom: 4px solid #6DC7D0;
 }
 
 .wrapper {
