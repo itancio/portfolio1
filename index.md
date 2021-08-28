@@ -7,9 +7,9 @@
   <li> Code </li>
   <li> Make </li>
   <li> Design </li>
+</div
 
-<h2 id="Background"> Background</h2>
-<span>
+<span id="Background">
 I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
 <strong>Experience </strong>
 Tax Preparer. Self-Employed. Jan 2015 - Present
