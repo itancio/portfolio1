@@ -19,18 +19,7 @@ Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017
 <p> City College of San Francisco. Associates. Graduated Spring 2020 </p>
 <bold> Volunteer </bold>
 <p> Webmaster / Web Designer. Aug 2013 - Dec 2018 </p>
-
-<ul>
-<b>University of California, Berkeley (Class 2022)</b>
-Electrical Engineering and Computer Science
-</ul>
-
-<b>City College of San Francisco (Class 2020)</b>
-<ul>
-  A.S. in Mathematics (with Highest Honors); 
-  A.S. in Computer Science (with Highest Honors); 
-  A.A. in Liberal Studies with emphasis in Science and Mathematics
-</ul>
+</pre>
 
 <br>
 
