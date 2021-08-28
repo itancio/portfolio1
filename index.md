@@ -7,7 +7,7 @@
   <li> Code </li>
   <li> Make </li>
   <li> Design </li>
-</div
+</div>
 
 <span id="Background">
 I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
@@ -23,7 +23,7 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 
 <br>
 
-## Coursework
+<h2 id="Coursework"> Coursework </h2>
 
 - CS61AB: Structure and Interpretation of Computer Programs and Data Structure
 - CS16AB: Designing Information Devices and Systems 
@@ -32,7 +32,7 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 <br>
   
 
-## Tools
+<h2 id="Tools"> Tools </h2>
 
 <img src="img/python.png" width = "50">
 <img src="img/java.png" width = "50">
