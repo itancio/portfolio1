@@ -9,7 +9,7 @@ I am a student at the University of California, Berkeley majoring in Electrical 
 <br>
 <br>
 
-### Summary
+## Summary
 <span>
 <strong>Experience </strong>
 Tax Preparer. Self-Employed. Jan 2015 - Present
@@ -23,7 +23,7 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 
 <br>
 
-### Coursework
+## Coursework
 
 - CS61AB: Structure and Interpretation of Computer Programs and Data Structure
 - CS16AB: Designing Information Devices and Systems 
@@ -32,7 +32,7 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 <br>
   
 
-### Skills
+## Skills
 
 <img src="img/python.png" width = "50">
 <img src="img/java.png" width = "50">
@@ -108,8 +108,7 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 
 <br>
 
-  
-  
+ 
 <!-- Blog Projects -->
 
 ## Make
@@ -122,7 +121,7 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 
 <br>
 
-## Desgin
+## Design
 <!-- Project Graphics -->
 <div class="gallery">
   <div class="thumbnail short"><a href="img/maker1.png">
