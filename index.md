@@ -139,6 +139,8 @@ Electrical Engineering and Computer Science
     <img src="img/saki.png"></a></div>
   <div class="thumbnail"><a href="img/gala.png">
     <img src="img/gala.png"></a></div>
+  <div class="thumbnail"><a href="img/trendbrasil.png">
+    <img src="img/trendbrasil.png"></a></div>
 </div>
 
 
