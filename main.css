@@ -31,7 +31,7 @@
 }
 
 .thumbnail {
-  width: 50%;
+  width: 100%;
   height: 800px;
   text-align: center;
   float: left;
@@ -43,8 +43,4 @@
   border: 1px solid #dae2e6;
   border-radius: 10px;
   padding-top: 20px;
-}
-
-.wrapper {
-  width: 2500;
 }
