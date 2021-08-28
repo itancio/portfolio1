@@ -64,50 +64,56 @@ Electrical Engineering and Computer Science
   <br>
 </div>
 
-<div class="border-round"> 
-  <h4> Ants vs. Some Bees </h4>
-  <p><img class="side" src="img/ants.png">
-  Project Description: (photo credit: Jessica Wan)
-  <a href="https://github.com/itancio/ants"> github link </a>
-  </p>
-  <br>
+<!-- Project Gallery Secion -->
+<div class="gallery">
+  <div class="border-round"> 
+    <h4> Ants vs. Some Bees </h4>
+    <p><img class="side" src="img/ants.png">
+    Project Description: (photo credit: Jessica Wan)
+    <a href="https://github.com/itancio/ants"> github link </a>
+    </p>
+    <br>
+  </div>
+
+  <div class="border-round"> Scheme
+    <p>Project Description:  
+    <a href="https://github.com/itancio/schemes"> github link </a>
+    </p>
+  </div>
+
+  <div class="border-round"> Cats
+    <p>
+    <a href="https://github.com/itancio/cats"> github link </a>
+    </p>
+  </div>
+
+  <div class="border-round"> Hog
+    <p>Project Description:
+    <a href="https://github.com/itancio/hog"> github link </a>
+    </p>
+  </div>
+
+  <div class="border-round"> Conway
+    <p>Project Description: 
+    <a href="https://github.com/itancio/conway"> github link </a>
+    </p>
+  </div>
+
+  <div class="border-round"> Battleship
+    <p>Project Description: 
+    <a href="https://github.com/itancio/battleship"> github link </a>
+    </p>
+  </div>
+
+  <div class="border-round"> Werewolf
+    <p>
+    <a href="https://github.com/itancio/werewolf"> github link </a>
+    </p>
+  </div>
 </div>
 
-<div class="border-round"> Scheme
-  <p>Project Description:  
-  <a href="https://github.com/itancio/schemes"> github link </a>
-  </p>
-</div>
 
-<div class="border-round"> Cats
-  <p>
-  <a href="https://github.com/itancio/cats"> github link </a>
-  </p>
-</div>
-
-<div class="border-round"> Hog
-  <p>Project Description:
-  <a href="https://github.com/itancio/hog"> github link </a>
-  </p>
-</div>
-
-<div class="border-round"> Conway
-  <p>Project Description: 
-  <a href="https://github.com/itancio/conway"> github link </a>
-  </p>
-</div>
-
-<div class="border-round"> Battleship
-  <p>Project Description: 
-  <a href="https://github.com/itancio/battleship"> github link </a>
-  </p>
-</div>
-
-<div class="border-round"> Werewolf
-  <p>
-  <a href="https://github.com/itancio/werewolf"> github link </a>
-  </p>
-</div>
+<!-- Project Robotic -->
 
 <div class="border-round"> Sixt33n
 </div>
@@ -123,8 +129,11 @@ Electrical Engineering and Computer Science
 <br>
 
 ### Graphic Works
+<!-- Project Graphics -->
+<div class="gallery">
+  <div class="thumbnail"><img class="portfolio" src="img/trendbrasil.png"></div>
+  <div class="thumbnail"><img class="portfolio" src="img/trendbrasil.png"></div>
 
-<img class="portfolio" src="img/trendbrasil.png">
 <img class="portfolio" src="img/saki.png">
 <img class="portfolio" src="img/maker1.png">
 <img class="portfolio" src="img/maker2.png">
