@@ -16,6 +16,7 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 
 <br>
 
+<!-- Coursework-->
 <h2 id="Coursework"> Coursework </h2>
 
 - CS61AB: Structure and Interpretation of Computer Programs and Data Structure
@@ -23,8 +24,8 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 - CS70: Discrete Mathematics and Probability Theory
 
 <br>
-  
 
+<!-- Tools -->
 <h2 id="Tools"> Tools </h2>
 
 <img src="img/python.png" width = "50">
@@ -37,10 +38,9 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 <img src="img/wordpress.png" width = "50">
 
 <br>
-<br>
-<!-- Programming Section -->
 
-## Code
+<!-- Programming Section -->
+<h2 id="Code"> Code </h2>
 
 <div class="gallery">
   <div class="border-round" margin=20 width=10>
@@ -103,7 +103,8 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 
  
 <!-- Blog Projects -->
-## Make
+<h2 id="Make"> Make </h2>
+
 <div class="gallery">
   <div class="border-round"> Sixt33n
   </div>
@@ -115,7 +116,8 @@ Webmaster / Web Designer. Aug 2013 - Dec 2018
 <br>
 
 <!-- Project Graphics -->
-## Design
+<h2 id="Design"> Design </h2>
+
 <div class="gallery">
   <div class="thumbnail short"><a href="img/maker1.png">
     <img src="img/maker1.png"></a></div>
