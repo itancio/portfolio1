@@ -2,7 +2,7 @@
 
 ## Electrical Engineering and Computer Science Student
 
-## Summary
+## Background
 <span>
 I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
 <strong>Experience </strong>
