@@ -135,7 +135,7 @@ Electrical Engineering and Computer Science
   <div class="thumbnail"><img src="img/maker2.png"></div>
   <div class="thumbnail"><img src="img/saki.png"></div>
   <div class="thumbnail"><img src="img/gala.png"></div>
-  spear
+  light
 </div>
 
 
