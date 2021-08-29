@@ -49,7 +49,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
   <div class="border-round" margin=20 width=10>
     <h4> Cookie Monster </h4>
     <p><img class="side" src="img/cookiemonster.png">
-    Programming Language: Java
+    Programming Language: Java <br>
     Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on keyboard and mouse input interaction. When user hovers to an element on the board, a text shows displaying description of that element.
       <a href="https://github.com/itancio/cookiemonster"> github link </a> 
       <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE">  |   demo video </a>
@@ -60,7 +60,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
    <div class="border-round"> 
     <h4> Gitlet </h4>
     <p><img class="side" src="img/gitlet.png">
-    Programming Language: Java
+    Programming Language: Java <br>
     Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
     <a href="https://github.com/itancio/gitlet"> github link </a>
     </p>
@@ -70,7 +70,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
   <div class="border-round"> 
     <h4> Ants vs. Some Bees </h4>
     <p><img class="side" src="img/ants.png">
-    Programming Language: Python
+    Programming Language: Python <br>
     Project Description: 
     <a href="https://github.com/itancio/ants"> github link </a>
     </p>
@@ -79,8 +79,8 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
  
    <div class="border-round"> 
     <h4> Werewolf </h4>
-    <p><img class="side" src="img/ants.png">
-    Programming Language: C++
+    <p><img class="side" src="">
+    Programming Language: C++ <br>
     Project Description: 
     <a href=""> coming soon </a>
     </p>
