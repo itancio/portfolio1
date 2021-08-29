@@ -3,15 +3,15 @@
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
 
 <span>
-I am currently taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
-<strong>Experience </strong>
-Tax Preparer. Self-Employed. Jan 2015 - Present
-Lead Teacher Aide. City College of San Francisco. Aug 2017 - Dec 2017
-<strong>Education </strong>
-University of California, Berkeley. EECS. Class 2022
-City College of San Francisco. Associates. Graduated Spring 2020
-<strong> Volunteer </strong>
-Webmaster / Web Designer. Aug 2013 - Dec 2018
+I will be taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
+<strong> Experience: </strong>
+Tax Preparer - Self-Employed (Jan 2015 - Present). 
+ Lead Teacher Aide - City College of San Francisco (Aug 2017 - Dec 2017).
+<strong>Education: </strong>
+University of California, Berkeley - (EECS, Class 2022).
+City College of San Francisco - Associates in Computer Science.
+<strong> Volunteer: </strong>
+Webmaster / Web Designer (Aug 2013 - Dec 2018).
 </span>
 
 <p><a href="Resume8_IrvinTancioco-2.pdf">Download <strong>Resume</strong></a></p>
