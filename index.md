@@ -44,6 +44,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
 
 <!-- Programming Section -->
 <h2 id="Code"> Code </h2>
+<br>
 
 <div class="gallery">
   <div class="border-round" margin=20 width=10>
@@ -93,6 +94,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
  
 <!-- Blog Projects -->
 <h2 id="Make"> Make </h2>
+<br>
 
 <div class="gallery">
   <div class="border-round"> 
