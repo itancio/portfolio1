@@ -64,42 +64,6 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     </p>
     <br>
   </div>
-
-  <div class="border-round"> Scheme
-    <p>Project Description:  
-    <a href="https://github.com/itancio/schemes"> github link </a>
-    </p>
-  </div>
-
-  <div class="border-round"> Cats
-    <p>
-    <a href="https://github.com/itancio/cats"> github link </a>
-    </p>
-  </div>
-
-  <div class="border-round"> Hog
-    <p>Project Description:
-    <a href="https://github.com/itancio/hog"> github link </a>
-    </p>
-  </div>
-
-  <div class="border-round"> Conway
-    <p>Project Description: 
-    <a href="https://github.com/itancio/conway"> github link </a>
-    </p>
-  </div>
-
-  <div class="border-round"> Battleship
-    <p>Project Description: 
-    <a href="https://github.com/itancio/battleship"> github link </a>
-    </p>
-  </div>
-
-  <div class="border-round"> Werewolf
-    <p>
-    <a href="https://github.com/itancio/werewolf"> github link </a>
-    </p>
-  </div>
 </div>
 
 <br>
