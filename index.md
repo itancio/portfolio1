@@ -82,6 +82,14 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
 <h2 id="Make"> Make </h2>
 
 <div class="gallery">
+ <div class="border-round"> 
+    <h4> Sixt33n </h4>
+    <p><img class="side" src="">
+    Project Description: This is a voice controlled robot car project for 16B class at UC Berkeley.
+    <a href=""> github link </a>
+    </p>
+    <br>
+  </div>
   <div class="border-round"> Sixt33n
   </div>
 
