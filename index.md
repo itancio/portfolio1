@@ -106,7 +106,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
 
   <div class="border-round"> 
     <h4> Balancing Robot </h4>
-    <p><img class="side" src="img/balance.jpg">
+    <p><img class="side" src="img/balance.png">
     Project Description: Based on <a href="https://www.instructables.com/Arduino-Self-Balancing-Robot-1/">midhun_s</a> self-balancing robot.
     <a href=""> coming soon </a>
     </p>
