@@ -77,7 +77,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <br><br>
   </div>
  
-   <div class="border-round"> 
+  <div class="border-round"> 
     <h4> Werewolf </h4>
     <p><img class="side" src="img/werewolf.jpg">
     Programming Language: C++ <br>
@@ -85,7 +85,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <a href=""> coming soon </a>
     </p>
     <br><br><br><br><br>
-  </div>
+ </div>
 </div>
 
 <br>
@@ -95,7 +95,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
 <h2 id="Make"> Make </h2>
 
 <div class="gallery">
- <div class="border-round"> 
+  <div class="border-round"> 
     <h4> Sixt33n (Voice controlled robot car)</h4>
     <p><img class="side" src="img/sixt33n.png">
     Project Description: This is a voice controlled robot car project for 16B class at UC Berkeley.
@@ -110,10 +110,9 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     Project Description: Based on <a href="https://www.instructables.com/Arduino-Self-Balancing-Robot-1/">midhun_s</a> self-balancing robot.
     <a href=""> coming soon </a>
     </p>
-    <br>
+   <br><br><br><br>
   </div>
-  <div class="border-round"> Balancing Robot
-  </div>
+  
 </div>
 
 <br>
