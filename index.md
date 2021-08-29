@@ -106,7 +106,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
 
   <div class="border-round"> 
     <h4> Balancing Robot </h4>
-    <p><img class="side" src="">
+    <p><img class="side" src="img/werewolf.jpg">
     Project Description:
     <a href=""> coming soon </a>
     </p>
