@@ -79,7 +79,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
  
    <div class="border-round"> 
     <h4> Werewolf </h4>
-    <p><img class="side" src="werewolf.jpg">
+    <p><img class="side" src="img/werewolf.jpg">
     Programming Language: C++ <br>
     Project Description: 
     <a href=""> coming soon </a>
