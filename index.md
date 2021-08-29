@@ -59,7 +59,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
    <div class="border-round"> 
     <h4> Gitlet </h4>
     <p><img class="side" src="img/gitlet.png">
-    Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, to merge files.
+    Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
     <a href="https://github.com/itancio/gitlet"> github link </a>
     </p>
     <br>
