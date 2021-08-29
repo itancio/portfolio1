@@ -21,7 +21,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
 <!-- Coursework-->
 <h2 id="Coursework"> Coursework </h2>
 
-- <strong>CS61AB: Structure and Interpretation of Computer Programs and Data Structure </strong>. Abstraction, Complexity and Data Structures.
+- CS61AB: Structure and Interpretation of Computer Programs and Data Structure. Abstraction, Handling Complexity and Data Structures.
 - CS16AB: Designing Information Devices and Systems. Linear Algebra, Eigenvalues, Least Squares, SVD (Single Value Decomposition), PCA (Principal Component Analysis).
 - CS70: Discrete Mathematics and Probability Theory.
 - Engineering Lab. Reading schematics, debugging circuits, and using multimeter, soldering and building simple circuitry.
