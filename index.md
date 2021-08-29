@@ -3,7 +3,7 @@
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
 
 <span>
-I will be taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface.
+I am an EECS student at the Universtiy of California, Berkeley (Class 2022). I will be taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I am interested in exploring the application of Machine Learning in robotics, VR/AR/MR, and graphics/art.
 <strong> Experience: </strong>
 Tax Preparer - Self-Employed (Jan 2015 - Present). 
  Lead Teacher Aide - City College of San Francisco (Aug 2017 - Dec 2017).
