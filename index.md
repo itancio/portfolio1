@@ -9,7 +9,7 @@ Tax Preparer - Self-Employed (Jan 2015 - Present).
  Lead Teacher Aide - City College of San Francisco (Aug 2017 - Dec 2017).
 <strong>Education: </strong>
 University of California, Berkeley - (EECS, Class 2022).
-City College of San Francisco - Associates in Computer Science.
+City College of San Francisco - Associates Degree in Computer Science and Mathematics.
 <strong> Volunteer: </strong>
 Webmaster / Web Designer (Aug 2013 - Dec 2018).
 </span>
