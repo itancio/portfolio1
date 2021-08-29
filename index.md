@@ -101,7 +101,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     Project Description: This is a voice controlled robot car project for 16B class at UC Berkeley.
     <a href=""> coming soon </a>
     </p>
-    <br><br><br><br><br>
+    <br><br><br><br><br><br>
   </div>
 
   <div class="border-round"> 
