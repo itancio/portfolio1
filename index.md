@@ -98,7 +98,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
   <div class="border-round"> 
     <h4> Sixt33n (Voice controlled robot car)</h4>
     <p><img class="side" src="img/sixt33n.png">
-    Project Description: This is a voice controlled robot car project for 16B class at UC Berkeley.
+    Project Description: This is a voice controlled car project for 16B class at UC Berkeley.
     <a href=""> coming soon </a>
     </p>
     <br><br><br><br><br><br>
