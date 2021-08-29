@@ -58,7 +58,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
  
    <div class="border-round"> 
     <h4> Gitlet </h4>
-    <p><img class="side" src="img/ants.png">
+    <p><img class="side" src="img/gitlet.png">
     Project Description: 
     <a href="https://github.com/itancio/gitlet"> github link </a>
     </p>
