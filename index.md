@@ -79,7 +79,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
  
    <div class="border-round"> 
     <h4> Werewolf </h4>
-    <p><img class="side" src="">
+    <p><img class="side" src="werewolf.jpg">
     Programming Language: C++ <br>
     Project Description: 
     <a href=""> coming soon </a>
@@ -106,8 +106,8 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
 
   <div class="border-round"> 
     <h4> Balancing Robot </h4>
-    <p><img class="side" src="img/werewolf.jpg">
-    Project Description:
+    <p><img class="side" src="img/balance.jpg">
+    Project Description: Based on <a href="https://www.instructables.com/Arduino-Self-Balancing-Robot-1/">midhun_s</a> self-balancing robot.
     <a href=""> coming soon </a>
     </p>
     <br>
