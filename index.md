@@ -14,7 +14,7 @@ City College of San Francisco - Associates Degree in Computer Science and Mathem
 Webmaster / Web Designer (Aug 2013 - Dec 2018).
 </span>
 
-<p><a href="Resume8_IrvinTancioco-2.pdf">Download <strong>Resume</strong></a></p>
+<p><a href="Resume8_IrvinTancioco-3.pdf">Download <strong>Resume</strong></a></p>
 
 <br>
 
