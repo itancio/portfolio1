@@ -55,8 +55,8 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <p><img class="side" src="img/cookiemonster.png">
     Programming Language: Java <br>
     Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on keyboard and mouse input interaction. When user hovers to an element on the board, a text shows displaying description of that element.
-      <a href="https://github.com/itancio/cookiemonster"> github link </a> 
-      <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE">  |   demo video </a>
+      <a href="https://github.com/itancio/cookiemonster" target="_blank"> github link </a> 
+      <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE" target="_blank">  |   demo video </a>
     </p>
     <br>
   </div>
@@ -66,7 +66,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <p><img class="side" src="img/gitlet.png">
     Programming Language: Java <br>
     Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
-    <a href="https://github.com/itancio/gitlet"> github link </a>
+    <a href="https://github.com/itancio/gitlet" target="_blank"> github link </a>
     </p>
     <br>
   </div>
@@ -76,7 +76,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <p><img class="side" src="img/ants.png">
     Programming Language: Python <br>
     Project Description: 
-    <a href="https://github.com/itancio/ants"> github link </a>
+    <a href="https://github.com/itancio/ants" target="_blank"> github link </a>
     </p>
     <br><br>
   </div>
@@ -86,7 +86,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <p><img class="side" src="img/werewolf.jpg">
     Programming Language: C++ <br>
     Project Description: 
-    <a href="https://github.com/itancio/werewolf"> coming soon </a>
+    <a href="https://github.com/itancio/werewolf" target="_blank"> coming soon </a>
     </p>
     <br><br><br><br><br><br><br>
  </div>
@@ -104,7 +104,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <h4> Sixt33n </h4>
     <p><img class="side" src="img/sixt33n.png">
     Project Description: This is a voice controlled car project for 16B class at UC Berkeley.
-    <a href=""> coming soon </a>
+    <a href="" target="_blank"> coming soon </a>
     </p>
     <br><br><br><br><br><br>
   </div>
@@ -113,7 +113,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <h4> Balancing Robot </h4>
     <p><img class="side" src="img/balance.png">
     Project Description: Based on <a href="https://www.instructables.com/Arduino-Self-Balancing-Robot-1/">midhun_s</a> self-balancing robot.
-    <a href=""> coming soon </a>
+    <a href="" target="_blank"> coming soon </a>
     </p>
    <br><br><br><br>
   </div>
@@ -126,14 +126,14 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
 <h2 id="Design"> Design </h2>
 
 <div class="gallery">
-  <div class="thumbnail short"><a href="img/maker1.png">
+  <div class="thumbnail short"><a href="img/maker1.png" target="_blank">
     <img src="img/maker1.png"></a></div>
-  <div class="thumbnail short"><a href="img/maker2.png">
+  <div class="thumbnail short"><a href="img/maker2.png" target="_blank">
     <img src="img/maker2.png"></a></div>
-  <div class="thumbnail"><a href="img/gala.png">
+  <div class="thumbnail"><a href="img/gala.png" target="_blank">
     <img src="img/gala.png"></a></div>
-  <div class="thumbnail"><a href="img/trendbrasil.png">
-    <img src="img/trendbrasil.png"></a></div>
+  <div class="thumbnail"><a href="img/trendbrasil.png" target="_blank">
+    <img src="img/trendbrasil.png" target="_blank"></a></div>
 </div>
 
 
