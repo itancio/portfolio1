@@ -2,9 +2,9 @@
 
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
 
-<ul>
- <li class="border-round"><a href="Resume8_IrvinTancioco-3.pdf" target="_blank">Download <strong>Resume</strong></a></li>
- <li class="border-round"><a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">View <strong>LinkedIn</strong></a></li>
+<ul class="downloads">
+ <li><a href="Resume8_IrvinTancioco-3.pdf" target="_blank">Download <strong>Resume</strong></a></li>
+ <li><a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">View <strong>LinkedIn</strong></a></li>
 </ul>
 
 <span>
