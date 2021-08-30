@@ -83,7 +83,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <p><img class="side" src="img/werewolf.jpg">
     Programming Language: C++ <br>
     Project Description: 
-    <a href=""> coming soon </a>
+    <a href="https://github.com/itancio/werewolf"> coming soon </a>
     </p>
     <br><br><br><br><br><br><br>
  </div>
