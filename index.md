@@ -4,7 +4,7 @@
 
 <ul class="downloads">
  <li><a href="Resume8_IrvinTancioco-3.pdf">Download <strong>Resume</strong></a></li>
- <li><a href="https://www.linkedin.com/in/irvintancioco/">View <strong>LinkedIn</strong></a>
+ <li><a href="https://www.linkedin.com/in/irvintancioco/">View <strong>LinkedIn</strong></a></li>
 </ul>
 
 <span>
