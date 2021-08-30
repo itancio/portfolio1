@@ -2,6 +2,11 @@
 
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
 
+<ul class="downloads">
+ <li><a href="Resume8_IrvinTancioco-3.pdf">Download <strong>Resume</strong></a></li>
+ <li><a href="https://www.linkedin.com/in/irvintancioco/">View <strong>LinkedIn</strong></a>
+</ul>
+
 <span>
 I am an EECS student at the Universtiy of California, Berkeley (Class 2022). I will be taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I am interested in exploring the application of Machine Learning in robotics, VR/AR/MR, and graphics/art.
 <strong> Experience: </strong>
@@ -13,8 +18,6 @@ City College of San Francisco - Associates Degree in Computer Science and Mathem
 <strong> Volunteer: </strong>
 Webmaster / Web Designer (Aug 2013 - Dec 2018).
 </span>
-
-<p><a href="Resume8_IrvinTancioco-3.pdf">Download <strong>Resume</strong></a>     |    <a href="https://www.linkedin.com/in/irvintancioco/">View <strong>LinkedIn</strong></a></p>
 
 <br>
 
