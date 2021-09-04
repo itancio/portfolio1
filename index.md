@@ -26,8 +26,8 @@ Webmaster / Web Designer (5 years).
 <!-- Coursework-->
 <h2 id="Coursework"> Coursework </h2>
 
-- CS61AB: Structure and Interpretation of Computer Programs and Data Structure. Abstraction, Handling Complexity and Data Structures.
-- CS16AB: Designing Information Devices and Systems. Linear Algebra, Gram-Schmidt, Eigenvalues, Least Squares, SVD (Single Value Decomposition), PCA (Principal Component Analysis). The objective of the class is to introduce students to the basics of linear algebra and how this foundational mathematics drive the basic concept of optimization in machine learning.
+- CS61AB: Structure and Interpretation of Computer Programs and Data Structure. Abstraction, Handling Complexity and Data Structures. The class aims to expose students to problem solving techniques in improving the efficiency and handling complexity of computer programs. The class also teaches the basics of computer languages (python, java) to demonstrates understanding of the class's core learning objectives.
+- CS16AB: Designing Information Devices and Systems. Linear Algebra, Gram-Schmidt, Eigenvalues, Least Squares, SVD (Single Value Decomposition), PCA (Principal Component Analysis). The objective of the class is to introduce students to the basics of linear algebra and how this foundational mathematics drive the basic concept of modeling and optimization in machine learning.
 - CS70: Discrete Mathematics and Probability Theory. Proofs, Counting, Probability, Discrete and Continuous Distributions, Markov Chain
 - Engineering Lab. Reading schematics, debugging circuits, and using multimeter, soldering and building simple circuitry.
 
