@@ -135,13 +135,13 @@ Webmaster / Web Designer (5 years).
 <br>
 
 <div class="gallery">
-  <div class="thumbnail short"><a href="img/maker1.png" target="_blank">
+  <div class="thumbnail short mouse"><a href="img/maker1.png" target="_blank">
     <img src="img/maker1.png"></a></div>
-  <div class="thumbnail short"><a href="img/maker2.png" target="_blank">
+  <div class="thumbnail short mouse"><a href="img/maker2.png" target="_blank">
     <img src="img/maker2.png"></a></div>
-  <div class="thumbnail"><a href="img/gala.png" target="_blank">
+  <div class="thumbnail mouse"><a href="img/gala.png" target="_blank">
     <img src="img/gala.png"></a></div>
-  <div class="thumbnail"><a href="img/trendbrasil.png" target="_blank">
+  <div class="thumbnail mouse"><a href="img/trendbrasil.png" target="_blank">
     <img src="img/trendbrasil.png"></a></div>
 </div>
 
