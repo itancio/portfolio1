@@ -131,6 +131,7 @@ Webmaster / Web Designer (5 years).
 
 <!-- Project Graphics -->
 <h2 id="Design"> Design </h2>
+<br>
 
 <div class="gallery">
   <div class="thumbnail short"><a href="img/maker1.png" target="_blank">
