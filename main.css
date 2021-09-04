@@ -19,12 +19,11 @@
 }
 
 .lang {
-  padding: 5px;
+  padding: 10px;
   float: left;
   border-radius: 10px;
-  border: 1px solid #dae2e6;
-  background-color: #374f5c;
-  color: white;
+  border: 1px solid #267CB9;
+  color: #267CB9;
 }
 
 .portfolio {
