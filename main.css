@@ -18,16 +18,27 @@
   margin-bottom: 0px;
 }
 
+.lang {
+  padding: 5px;
+  float: left;
+  border-radius: 10px;
+  border: 1px solid #dae2e6;
+  background-color: #374f5c;
+
+.portfolio {
+  width: 100px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
 .side {
   float: left;
   margin: 10px;
   width: 150px;
 }
 
-.portfolio {
-  width: 100px;
-  margin-right: 10px;
-  margin-bottom: 10px;
+.short {
+  height: 160px;
 }
 
 .thumbnail {
@@ -45,6 +56,3 @@
 }
 
 
-.short {
-  height: 160px;
-}
