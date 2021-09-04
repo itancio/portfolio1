@@ -54,17 +54,16 @@
 }
 
 .thumbnail img {
-  height: 310px;
+  height: 100%;
   width: 100%;
 }
 
 .short {
   height: 180px;
-  background-color: red;
 }
 
 .short img {
-  height: 180px;
+  height: 100%;
   width: 100%;
 }
   
