@@ -68,6 +68,7 @@ Webmaster / Web Designer (5 years).
           <div display="table-cell"><h4> Cookie Monster </h4></div>
           <div display="table-cell" class="cell"> Programming Language: Java </div>
           <div display="table-cell" class="cell"> Python </div>
+         <div display="table-cell" class="cell"> C++ </div>
         </div>
     </div>
     <p><img class="side" src="img/cookiemonster.png">
