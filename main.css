@@ -7,6 +7,14 @@
   clear: both;
 }
 
+.mouse {
+  transition: background-color 2s ease-out 100ms;
+}
+
+.mouse:hover {
+  background-color: #FF1493;
+}
+
 .gallery {
   clear: both;
   display: inline-block;
