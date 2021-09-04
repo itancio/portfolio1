@@ -21,7 +21,7 @@
 
 .mouse:hover .overlay{
   background-color: #FF1493;
-  opacity: 1;
+  opacity: .5;
 }
 
 .gallery {
