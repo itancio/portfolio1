@@ -53,8 +53,18 @@
   overflow: hidden;
 }
 
+.thumbnai img {
+  height: 310px;
+  width: 100%;
+
 .short {
   height: 180px;
 }
+
+.short img {
+  height: 180px;
+  width: 100%;
+}
+  
 
 
