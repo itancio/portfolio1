@@ -56,6 +56,7 @@ Webmaster / Web Designer (5 years).
 <img src="img/wordpress.png" width = "50">
 
 <br>
+<br>
 
 <!-- Programming Section -->
 <h2 id="Code"> Code </h2>
