@@ -67,7 +67,6 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
     <a href="https://github.com/itancio/gitlet" target="_blank"> github link </a>
     </p>
-    <br>
   </div>
 
   <div class="border-round"> 
@@ -77,7 +76,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     Project Description: 
     <a href="https://github.com/itancio/ants" target="_blank"> github link </a>
     </p>
-    <br><br>
+    <br>
   </div>
  
   <div class="border-round"> 
@@ -87,7 +86,6 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     Project Description: The game involves a player and werewolf with a random-generated world. The player can collect items to defend and to escape werewolf. I am responsible for completing the functions for file persistence, interactivity of the player, werewolf, teleportation functionality of the werewolf.
     <a href="https://github.com/itancio/werewolf" target="_blank"> coming soon </a>
     </p>
-    <br><br><br><br><br><br><br>
  </div>
 </div>
 
