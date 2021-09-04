@@ -17,6 +17,8 @@ University of California, Berkeley: (EECS, Class 2022).
 City College of San Francisco: Associates Degree in Computer Science and Mathematics.
 <strong> Volunteer: </strong>
 Webmaster / Web Designer (5 years).
+ <strong>Interest: </strong>
+ I am an enthusiast of yoga, dance, food, art, fashion, travel and technology.
 </span>
 
 <br>
