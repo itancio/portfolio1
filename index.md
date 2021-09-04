@@ -58,7 +58,6 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
       <a href="https://github.com/itancio/cookiemonster" target="_blank"> github link </a> 
       <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE" target="_blank">  |   demo video </a>
     </p>
-    <br>
   </div>
  
    <div class="border-round"> 
