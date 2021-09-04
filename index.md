@@ -63,8 +63,10 @@ Webmaster / Web Designer (5 years).
 
 <div class="gallery">
   <div class="border-round" margin=20 width=10>
-    <h4> Cookie Monster </h4>
-    <div class="lang"> Java </div>
+    <ul class="lang">
+     <li><h4> Cookie Monster </h4></li>
+     <li> Java </div></li>
+    </ul>
     <p><img class="side" src="img/cookiemonster.png">
     <br>
     Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on graphical user interface (GUI) using stddraw methods. For example, when user hovers to an element on the board, a description of that element will appear at the bottom right of the screen.
