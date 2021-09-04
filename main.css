@@ -7,23 +7,6 @@
   clear: both;
 }
 
-.overlay {
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
-}
-
-.mouse {
-  transition: background-color 2s ease-out 100ms;
-}
-
-.mouse:hover .overlay{
-  background-color: #FF1493;
-  opacity: .5;
-}
-
 .gallery {
   clear: both;
   display: inline-block;
