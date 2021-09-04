@@ -54,7 +54,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <h4> Cookie Monster </h4>
     <p><img class="side" src="img/cookiemonster.png">
     Programming Language: Java <br>
-    Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on keyboard and mouse input interaction. When user hovers to an element on the board, a text shows displaying description of that element.
+    Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on graphical user interface (GUI) using stddraw methods. For example, when user hovers to an element on the board, a description of that element will appear at the bottom right of the screen.
       <a href="https://github.com/itancio/cookiemonster" target="_blank"> github link </a> 
       <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE" target="_blank">  |   demo video </a>
     </p>
@@ -85,7 +85,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <h4> Werewolf </h4>
     <p><img class="side" src="img/werewolf.jpg">
     Programming Language: C++ <br>
-    Project Description: 
+    Project Description: The game involves a player and werewolf with a random-generated world. The player can collect items to defend and to escape werewolf. I am responsible for completing the functions for file persistence, interactivity of the player, werewolf, teleportation functionality of the werewolf.
     <a href="https://github.com/itancio/werewolf" target="_blank"> coming soon </a>
     </p>
     <br><br><br><br><br><br><br>
