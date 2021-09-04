@@ -63,7 +63,7 @@ Webmaster / Web Designer (5 years).
 
 <div class="gallery">
   <div class="border-round" margin=20 width=10>
-    <div ="lang">
+    <div class="lang">
      <h4> Cookie Monster </h4>
      <li> Java </li>
     </div>
