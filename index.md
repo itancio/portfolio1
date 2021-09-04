@@ -71,7 +71,7 @@ Webmaster / Web Designer (5 years).
     <br>
     Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on graphical user interface (GUI) using stddraw methods. For example, when user hovers to an element on the board, a description of that element will appear at the bottom right of the screen.
       <a href="https://github.com/itancio/cookiemonster" target="_blank"> github link </a> 
-      <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE" target="_blank">  |   demo video </a>
+      <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE" target="_blank">  |   demo </a>
     </p>
   </div>
  
