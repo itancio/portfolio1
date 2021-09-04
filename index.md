@@ -64,8 +64,9 @@ Webmaster / Web Designer (5 years).
 <div class="gallery">
   <div class="border-round" margin=20 width=10>
     <h4> Cookie Monster </h4>
+    <div class="lang"> Java </div>
     <p><img class="side" src="img/cookiemonster.png">
-    <div class="lang">Java </div><br>
+    <br>
     Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on graphical user interface (GUI) using stddraw methods. For example, when user hovers to an element on the board, a description of that element will appear at the bottom right of the screen.
       <a href="https://github.com/itancio/cookiemonster" target="_blank"> github link </a> 
       <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE" target="_blank">  |   demo video </a>
@@ -74,8 +75,9 @@ Webmaster / Web Designer (5 years).
  
    <div class="border-round"> 
     <h4> Gitlet </h4>
+    <div class="lang"> Java </div>
     <p><img class="side" src="img/gitlet.png">
-    <div class="lang">Java </div><br>
+    <br>
     Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
     <a href="https://github.com/itancio/gitlet" target="_blank"> github link </a>
     </p>
