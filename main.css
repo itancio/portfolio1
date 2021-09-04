@@ -18,17 +18,15 @@
   margin-bottom: 0px;
 }
 
-.lang {
-  list-style-type: none;
-  
+.row {
+  display: table-row;
 }
 
-.lang li {
+.cell {
   padding: 2px;
   border-radius: 10px;
   border: 1px solid #267CB9;
   color: #267CB9;
-  display: inline-block;
   text-align: center;
 }
 
