@@ -77,8 +77,8 @@ Webmaster / Web Designer (5 years).
  
    <div class="border-round"> 
     <h4> Gitlet </h4>
-    <div class="lang"> Java </div>
     <p><img class="side" src="img/gitlet.png">
+    <div class="lang">Programming Language: Java <br></div>
     <br>
     Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
     <a href="https://github.com/itancio/gitlet" target="_blank"> github link </a>
@@ -88,7 +88,8 @@ Webmaster / Web Designer (5 years).
   <div class="border-round"> 
     <h4> Ants vs. Some Bees </h4>
     <p><img class="side" src="img/ants.png">
-    <div class="lang">Programming Language: Python <br></div>
+    <div class="lang">Programming Language: Python </div>
+    <br>
     Project Description: The goal of the game is to protect the queen ant from the invasion of the bees. I am responsible for completing the missing methods for different kinds of ants.
     <a href="https://github.com/itancio/ants" target="_blank"> github link </a>
    </p>
