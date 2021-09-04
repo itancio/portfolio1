@@ -84,7 +84,7 @@ Webmaster / Web Designer (Aug 2013 - Dec 2018).
     <p><img class="side" src="img/werewolf.jpg">
     Programming Language: C++ <br>
     Project Description: The game involves a player and werewolf with a random-generated world. The player can collect items to defend and to escape werewolf. I am responsible for completing the functions for file persistence, interactivity of the player, werewolf, teleportation functionality of the werewolf.
-    <a href="https://github.com/itancio/werewolf" target="_blank"> coming soon </a>
+    <a href="https://github.com/itancio/werewolf" target="_blank"> github link </a>
     </p>
  </div>
 </div>
