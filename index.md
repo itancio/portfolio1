@@ -145,8 +145,6 @@ Webmaster / Web Designer (5 years).
     <img src="img/trendbrasil.png" target="_blank"></a></div>
 </div>
 
-<br>
-
 More to come
 
 
