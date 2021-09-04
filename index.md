@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 <link type="text/css" rel="stylesheet" href="main.css" />
 
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
