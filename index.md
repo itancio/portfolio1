@@ -65,7 +65,7 @@ Webmaster / Web Designer (5 years).
   <div class="border-round" margin=20 width=10>
     <div display="table">
       <div class="row">
-        <div display="table-row">
+        <div display="table-column">
           <div display="table-cell"><h4> Cookie Monster </h4></div>
           <div class="cell"> Java </div>
           <div display="table-cell"> Python </div>
