@@ -65,7 +65,7 @@ Webmaster / Web Designer (5 years).
   <div class="border-round" margin=20 width=10>
     <div class="row">
       <div><h4> Cookie Monster </h4></div>
-      <div class="cell"> Java Mocha </div>
+      <div class="cell"> Java </div>
     </div>
     <p><img class="side" src="img/cookiemonster.png">
     <br>
