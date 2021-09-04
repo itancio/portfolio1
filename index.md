@@ -32,7 +32,7 @@ Webmaster / Web Designer (5 years).
   </li>
  
   <li><u>CS16AB: Designing Information Devices and Systems:</u> 
-      <p>. Linear Algebra, Gram-Schmidt, Eigenvalues, Least Squares, SVD (Single Value Decomposition), PCA (Principal Component Analysis). The objective of the class is to introduce students to the basics of linear algebra and how this foundational mathematics drive the basic concept of modeling and optimization in machine learning.</p>
+      <p>  Linear Algebra, Gram-Schmidt, Eigenvalues, Least Squares, SVD (Single Value Decomposition), PCA (Principal Component Analysis). The objective of the class is to introduce students to the basics of linear algebra and how this foundational mathematics drive the basic concept of modeling and optimization in machine learning.</p>
   </li>
  
   <li><u>CS70: Discrete Mathematics and Probability Theory:</u> 
