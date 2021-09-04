@@ -110,7 +110,7 @@ Webmaster / Web Designer (5 years).
   <div class="border-round"> 
     <h4> Balancing Robot </h4>
     <p><img class="side" src="img/balance.png">
-    Project Description: (Based on <a href="https://www.instructables.com/Arduino-Self-Balancing-Robot-1/" target="_blank">midhun_s</a> self-balancing robot). This bi-wheeled robot resembles an inverted pendulum with self correcting stability measurements. The motivation for this project is to get experience with building system from schematics and to learn how the feedback loop model makes motor adjustments from the input of the accelerator-gyroscope module.
+    Project Description: (Based on <a href="https://www.instructables.com/Arduino-Self-Balancing-Robot-1/" target="_blank">midhun_s</a> self-balancing robot). This bi-wheeled robot resembles an inverted pendulum with self correcting stability measurements. The motivation for this project is to get experience with building system from schematics and to learn how the feedback loop model makes motor adjustments from the input measurements of the accelerator-gyroscope module.
     <a href="https://github.com/itancio/balance" target="_blank"> github link </a>
     </p>
   </div>
