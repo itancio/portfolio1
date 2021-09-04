@@ -20,18 +20,16 @@
 
 .lang {
   padding: 2px;
-  border-radius: 10px;
-  border: 1px solid #267CB9;
-  color: #267CB9;
-  
   list-style-type: none;
   text-align: center;
 }
 
 .lang li {
+  border-radius: 10px;
+  border: 1px solid #267CB9;
+  color: #267CB9;
   display: inline-block;
-  font-size: 20px;
-  padding: 20px;
+  padding: 2px;
 }
 
 .portfolio {
