@@ -75,7 +75,7 @@ Webmaster / Web Designer (5 years).
     <h4> Ants vs. Some Bees </h4>
     <p><img class="side" src="img/ants.png">
     Programming Language: Python <br>
-    Project Description: 
+    Project Description: The goal of the game is to protect the queen ant from the invasion of the bees. I am responsible for completing the missing methods for different kinds of ants.
     <a href="https://github.com/itancio/ants" target="_blank"> github link </a>
     </p>
     <br>
