@@ -65,7 +65,7 @@ Webmaster / Web Designer (5 years).
   <div class="border-round" margin=20 width=10>
     <ul class="lang">
      <li><h4> Cookie Monster </h4></li>
-     <li> Java </div></li>
+     <li> Java </li>
     </ul>
     <p><img class="side" src="img/cookiemonster.png">
     <br>
