@@ -145,6 +145,10 @@ Webmaster / Web Designer (5 years).
     <img src="img/trendbrasil.png"></a></div>
 </div>
 
+<div class="gallery mouse" background-color="red">
+ hello world
+</div>
+
 More to come
 
 
