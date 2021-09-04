@@ -10,13 +10,13 @@
 <span>
 I am an EECS student at the Universtiy of California, Berkeley (Class 2022). I will be taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I am interested in exploring the application of Machine Learning in robotics, VR/AR/MR, and graphics/art.
 <strong> Experience: </strong>
-Tax Preparer - Self-Employed (Jan 2015 - Present). 
- Lead Teacher Aide - City College of San Francisco (Aug 2017 - Dec 2017).
+Tax Preparer - Self-Employed (5 years). 
+ Lead Teacher Aide - City College of San Francisco (8 months).
 <strong>Education: </strong>
 University of California, Berkeley - (EECS, Class 2022).
 City College of San Francisco - Associates Degree in Computer Science and Mathematics.
 <strong> Volunteer: </strong>
-Webmaster / Web Designer (Aug 2013 - Dec 2018).
+Webmaster / Web Designer (5 years).
 </span>
 
 <br>
