@@ -26,6 +26,8 @@
   text-align: center;
   font-size: 11px;
   width: 400px;
+  display: inline;
+  margin-right: 10px;
 }
 
 .menu {
