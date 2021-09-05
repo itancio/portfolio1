@@ -24,8 +24,13 @@
   border: 1px solid #267CB9;
   color: #267CB9;
   text-align: center;
+  margin-right: 10px;
   display: table-cell;
   font-size: 11px;
+}
+
+.menu {
+  font-size: 12px;
 }
 
 .portfolio {
