@@ -80,8 +80,9 @@ Webmaster / Web Designer (5 years).
    <div class="border-round"> 
     <h4> Gitlet </h4>
     <p><img class="side" src="img/gitlet.png">
-    <div class="cell"> Programming Language: Java </div>
-    Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
+       <div class="cell"> Programming Language: Java </div>
+    </p>
+    <p>Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
     <a href="https://github.com/itancio/gitlet" target="_blank"> github link </a>
     </p>
   </div>
@@ -89,8 +90,9 @@ Webmaster / Web Designer (5 years).
   <div class="border-round"> 
     <h4> Ants vs. Some Bees </h4>
     <p><img class="side" src="img/ants.png">
-    <div class="cell"> Programming Language: Python </div>
-    Project Description: The goal of the game is to protect the queen ant from the invasion of the bees. I am responsible for completing the missing methods for different kinds of ants.
+       <div class="cell"> Programming Language: Python </div>
+    </p>
+    <p>Project Description: The goal of the game is to protect the queen ant from the invasion of the bees. I am responsible for completing the missing methods for different kinds of ants.
     <a href="https://github.com/itancio/ants" target="_blank"> github link </a>
    </p>
   </div>
@@ -98,8 +100,9 @@ Webmaster / Web Designer (5 years).
   <div class="border-round"> 
     <h4> Werewolf </h4>
     <p><img class="side" src="img/werewolf.jpg">
-    <div class="cell"> Programming Language: C++ </div>
-    Project Description: The game involves a player and werewolf with a random-generated world. The player can collect items to defend and to escape werewolf. I am responsible for completing the functions for file persistence, interactivity of the player, werewolf, teleportation functionality of the werewolf.
+       <div class="cell"> Programming Language: C++ </div>
+    </p>
+    <p>Project Description: The game involves a player and werewolf with a random-generated world. The player can collect items to defend and to escape werewolf. I am responsible for completing the functions for file persistence, interactivity of the player, werewolf, teleportation functionality of the werewolf.
     <a href="https://github.com/itancio/werewolf" target="_blank"> github link </a>
     </p>
  </div>
