@@ -58,7 +58,6 @@ header {
 }
 
 .thumbnail img {
-  height: 100%;
   width: 100%;
 }
 
@@ -67,7 +66,6 @@ header {
 }
 
 .short img {
-  height: 100%;
   width: 100%;
 }
   
