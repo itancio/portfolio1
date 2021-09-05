@@ -35,6 +35,16 @@
   grid-row-gap: 0px;
 }
 
+.button{
+  color: #676767;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid #dae2e6;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  clear: both;
+}
+
 .portfolio {
   width: 100px;
   margin-right: 10px;
