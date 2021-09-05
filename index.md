@@ -8,8 +8,11 @@
  <li><a href="">contact <strong>itancio@berkeley[dot]edu</strong></a></li>
 </ul>
 
-
-<div class="cell" font-size="12px">contact: itancio@berkeley[dot]edu </div>
+<div>
+ <div class="cell"><a href="Resume8_IrvinTancioco-3.pdf" target="_blank">Download <strong>Resume</strong></a></div>
+ <div class="cell"><a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">View <strong>LinkedIn</strong></a></li>
+ <div class="cell"><a href="">contact <strong>itancio@berkeley[dot]edu</strong></a></div>
+</div>
 
 <br>
 <br>
