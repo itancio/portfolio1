@@ -2,10 +2,10 @@
 
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
 
-<div>
- <div class="cell"><a href="Resume8_IrvinTancioco-3.pdf" target="_blank">Download <strong>Resume</strong></a></div>
- <div class="cell"><a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">View <strong>LinkedIn</strong></a></div>
- <div class="cell"><a href="">Contact <strong>itancio@berkeley[dot]edu</strong></a></div>
+<div class="menu">
+ <div><a href="Resume8_IrvinTancioco-3.pdf" target="_blank">Download <strong>Resume</strong></a></div>
+ <div><a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">View <strong>LinkedIn</strong></a></div>
+ <div><a href="">Contact <strong>itancio@berkeley[dot]edu</strong></a></div>
 </div>
 
 <br>
