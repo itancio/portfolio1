@@ -8,6 +8,10 @@
 </ul>
 
 <span>
+  <div class="cell"> itancio@berkeley[dot]edu </div>
+</span>
+
+<span>
 I am an EECS student at the Universtiy of California, Berkeley (Class 2022). I will be taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I am interested in exploring the application of Machine Learning in robotics, VR/AR/MR, and graphics/art.
 <strong> Experience: </strong>
 Tax Preparer: Self-Employed (5+ years). 
