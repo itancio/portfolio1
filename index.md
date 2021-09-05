@@ -69,7 +69,7 @@ Webmaster / Web Designer (5 years).
   <div class="border-round" margin=20 width=10>
     <h4> Cookie Monster </h4>
     <p><img class="side" src="img/cookiemonster.png">
-    <div display="table-cell" class="cell"> Programming Language: Java </div>
+    <div class="cell"> Programming Language: Java </div>
     Project Description: This is a game that generates a 2D world and player interaction with collectible items. I worked specifically on graphical user interface (GUI) using stddraw methods. For example, when user hovers to an element on the board, a description of that element will appear at the bottom right of the screen.
       <a href="https://github.com/itancio/cookiemonster" target="_blank"> github link </a> 
       <a href="https://www.youtube.com/watch?v=ES2n5Quh2KE" target="_blank">  |   demo video </a>
@@ -79,7 +79,7 @@ Webmaster / Web Designer (5 years).
    <div class="border-round"> 
     <h4> Gitlet </h4>
     <p><img class="side" src="img/gitlet.png">
-    <div display="table-cell" class="cell"> Programming Language: Java </div>
+    <div class="cell"> Programming Language: Java </div>
     Project Description: A short program that mimics the functionality of git's version control. I implemented commands needed to initialize, to add, to commit, to remove, to view log and status, to checkout, to branch, and to merge files.
     <a href="https://github.com/itancio/gitlet" target="_blank"> github link </a>
     </p>
@@ -88,7 +88,7 @@ Webmaster / Web Designer (5 years).
   <div class="border-round"> 
     <h4> Ants vs. Some Bees </h4>
     <p><img class="side" src="img/ants.png">
-    <div display="table-cell" class="cell"> Programming Language: Python </div>
+    <div class="cell"> Programming Language: Python </div>
     Project Description: The goal of the game is to protect the queen ant from the invasion of the bees. I am responsible for completing the missing methods for different kinds of ants.
     <a href="https://github.com/itancio/ants" target="_blank"> github link </a>
    </p>
@@ -97,7 +97,7 @@ Webmaster / Web Designer (5 years).
   <div class="border-round"> 
     <h4> Werewolf </h4>
     <p><img class="side" src="img/werewolf.jpg">
-    <div display="table-cell" class="cell"> Programming Language: C++ </div>
+    <div class="cell"> Programming Language: C++ </div>
     Project Description: The game involves a player and werewolf with a random-generated world. The player can collect items to defend and to escape werewolf. I am responsible for completing the functions for file persistence, interactivity of the player, werewolf, teleportation functionality of the werewolf.
     <a href="https://github.com/itancio/werewolf" target="_blank"> github link </a>
     </p>
