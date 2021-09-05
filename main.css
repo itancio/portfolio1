@@ -18,6 +18,10 @@
   margin-bottom: 0px;
 }
 
+header {
+  background-color: #b6d2e0;
+}
+
 .cell {
   padding: 5px;
   border-radius: 10px;
