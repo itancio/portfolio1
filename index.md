@@ -146,9 +146,6 @@ Webmaster / Web Designer (5 years).
 </div>
 
 
-More to come
-
-
 
 
 
