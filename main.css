@@ -104,6 +104,7 @@ button {
 #ninth:hover button{
   background:red;
   color:#ff9292;
+  content: "itancio@berkeley[dot]edu"
 }
 /* end - menu button */
 
