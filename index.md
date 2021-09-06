@@ -17,9 +17,11 @@
       <div class="border"></div>
   </div>
  
+  <div id="ninth" class="buttonBox">
+    <button> LinkedIn </button>
+  </div>
  
-   <button> LinkedIn </button>
-   <button> Contack </button>
+  <button> Contack </button>
 </div>
 
 <br>
