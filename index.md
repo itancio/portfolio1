@@ -17,9 +17,10 @@
     <button><a href="https://www.linkedin.com/in/irvintancioco/" target="_blank"> LinkedIn </a></button>
   </div>
  
-  <a href="" class="buttonBox"><div id="ninth" >
-    <button> Contact </button>
-   </a>
+  <div id="ninth" class="buttonBox">
+    <a href="">
+      <button> Contact </button>
+    </a>
   </div>
 </div>
 
