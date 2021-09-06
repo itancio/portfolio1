@@ -25,7 +25,11 @@
  
   <a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">
     <button class="glow-on-hover" type="button">Linkedin</button>
- </a>
+  </a>
+  
+  <a href="" target="_blank">
+    <button class="glow-on-hover" type="button">Contact</button>
+  </a>
   
 </div>
 
