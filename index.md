@@ -13,10 +13,8 @@
     <button><a href="Resume8_IrvinTancioco-3.pdf" target="_blank"> Resume </a></button>
   </div>
  
-  <div id="ninth" class="buttonBox">
-    <a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">
-      <button> LinkedIn </button>
-    </a>
+  <div id="ninth" class="buttonBox"> 
+    <button><a href="https://www.linkedin.com/in/irvintancioco/" target="_blank"> LinkedIn </a></button>
   </div>
  
   <div id="ninth" class="buttonBox">
