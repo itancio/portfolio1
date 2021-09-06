@@ -93,6 +93,7 @@
 
 button {
   background:rgba(55, 55, 55, .27);
+  background:rgba(97%, 98%, 98%, 27%);
   letter-spacing:1px;
   cursor: pointer;
 }
