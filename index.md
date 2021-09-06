@@ -9,11 +9,13 @@
 </div>
 
 <div class="menu">
- <button> Resume </button>
-   <div class="border"> </div>
-   <div class="border"> </div>
-   <div class="border"></div>
-   <div class="border"></div>
+ <div id="fourth" class="buttonBox">
+  <button> Resume </button>
+    <div class="border"> </div>
+    <div class="border"> </div>
+    <div class="border"></div>
+    <div class="border"></div>
+ </div>
  
  <button> LinkedIn </button>
  <button> Contact </button>
