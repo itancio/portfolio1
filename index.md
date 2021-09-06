@@ -9,19 +9,21 @@
 </div>
 
 <div class="menu">
-  <div id="fourth" class="buttonBox">
-    <button> Resume </button>
-      <div class="border"> </div>
-      <div class="border"> </div>
-      <div class="border"></div>
-      <div class="border"></div>
+  <div id="ninth" class="buttonBox">
+    <a href="Resume8_IrvinTancioco-3.pdf" target="_blank">
+      <button> Resume </button>
+    </a>
   </div>
  
   <div id="ninth" class="buttonBox">
-    <button> LinkedIn </button>
+    <a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">
+      <button> LinkedIn </button>
+    </a>
   </div>
  
-  <button> Contack </button>
+  <div id="ninth" class="buttonBox">
+    <button> Contack </button>
+  </div>
 </div>
 
 <br>
