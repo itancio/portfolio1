@@ -9,16 +9,18 @@
 </div>
 
 <div class="menu">
- <div id="fourth" class="buttonBox">
-  <button> Resume </button>
-    <div class="border"> </div>
-    <div class="border"> </div>
-    <div class="border"></div>
-    <div class="border"></div>
- </div>
+  <div id="fourth" class="buttonBox">
+    <button> Resume </button>
+      <div class="border"> </div>
+      <div class="border"> </div>
+      <div class="border"></div>
+      <div class="border"></div>
+  </div>
  
- <button> LinkedIn </button>
- <button> Contact </button>
+ 
+   <button> LinkedIn </button>
+   <button> Contact </button>
+</div>
 
 <br>
 <br>
