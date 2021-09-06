@@ -50,18 +50,18 @@
   clear: both;
 }
 
-.contentBox {
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-}
-
 .buttonBox {
-  margin: 0 20px 40px;
+  color: #676767;
+  font-size: 11px;
+  text-align: center;
+  background: #f4f4f4;
+  padding: 5px;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  clear: both;
+  
   position:relative;
-  max-width: 200px;
-  min-width: 150px;
   flex: 20%;
 }
 
