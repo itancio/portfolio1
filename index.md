@@ -10,9 +10,7 @@
 
 <div class="menu">
   <div id="ninth" class="buttonBox">
-    <a href="Resume8_IrvinTancioco-3.pdf" target="_blank">
-      <button> Resume </button>
-    </a>
+    <button><a href="Resume8_IrvinTancioco-3.pdf" target="_blank"> Resume </a></button>
   </div>
  
   <div id="ninth" class="buttonBox">
