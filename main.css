@@ -129,7 +129,16 @@ button {
   height:80px;
 }
 
-  
+/* NINTH HOVER */
+
+#ninth>button{
+  transition:all .5s ease-in-out;
+}
+
+#ninth:hover button{
+  background:white;
+  color:#ff9292;
+}
 
 .portfolio {
   width: 100px;
