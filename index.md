@@ -3,12 +3,6 @@
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
 
 <div class="menu">
- <div class="button"><a href="Resume8_IrvinTancioco-3.pdf" target="_blank">Download <strong>Resume</strong></a></div>
- <div class="button"><a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">View <strong>LinkedIn</strong></a></div>
- <div class="button"><a href="">Contact <strong>itancio@berkeley[dot]edu</strong></a></div>
-</div>
-
-<div class="menu">
   <div id="ninth" class="buttonBox">
     <button><a href="Resume8_IrvinTancioco-3.pdf" target="_blank"> Resume </a></button>
   </div>
@@ -22,6 +16,17 @@
       <button> Contact </button>
     </a>
   </div>
+</div>
+
+<div class="menu">
+  <a href="Resume8_IrvinTancioco-3.pdf" target="_blank">
+    <button class="glow-on-hover" type="button">Resume</button>
+  </a>
+ 
+  <a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">
+    <button class="glow-on-hover" type="button">Linkedin</button>
+ </a>
+  
 </div>
 
 <br>
