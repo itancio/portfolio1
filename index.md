@@ -8,7 +8,7 @@
  <div class="button"><a href="">Contact <strong>itancio@berkeley[dot]edu</strong></a></div>
 </div>
 
-<div class="menu">
+<div class="contentBox">
   <div id="fourth" class="buttonBox">
     <button> Resume </button>
       <div class="border"> </div>
