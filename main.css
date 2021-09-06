@@ -30,6 +30,7 @@
   margin-right: 10px;
 }
 
+/* menu button */
 .menu {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -80,8 +81,6 @@ button {
   cursor: pointer;
 }
 
-
-/* NINTH HOVER */
 #ninth>button{
   transition:all .5s ease-in-out;
 }
@@ -90,7 +89,7 @@ button {
   background:red;
   color:#ff9292;
 }
-/* END - NINTH HOVER */
+/* end - menu button */
 
 .portfolio {
   width: 100px;
