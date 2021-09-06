@@ -8,6 +8,16 @@
  <div class="button"><a href="">Contact <strong>itancio@berkeley[dot]edu</strong></a></div>
 </div>
 
+<div class="menu">
+ <button> Resume </button>
+   <div class="border"> </div>
+   <div class="border"> </div>
+   <div class="border"></div>
+   <div class="border"></div>
+ 
+ <button> LinkedIn </button>
+ <button> Contact </button>
+
 <br>
 <br>
 
