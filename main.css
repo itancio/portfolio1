@@ -82,7 +82,6 @@ button {
 
 
 /* NINTH HOVER */
-
 #ninth>button{
   transition:all .5s ease-in-out;
 }
@@ -91,6 +90,7 @@ button {
   background:red;
   color:#ff9292;
 }
+/* END - NINTH HOVER */
 
 .portfolio {
   width: 100px;
