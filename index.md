@@ -19,7 +19,7 @@
  
  
    <button> LinkedIn </button>
-   <button> berk </button>
+   <button> Contack </button>
 </div>
 
 <br>
