@@ -39,18 +39,6 @@
   grid-row-gap: 0px;
 }
 
-.button {
-  color: #676767;
-  font-size: 11px;
-  text-align: center;
-  background: #f4f4f4;
-  padding: 5px;
-  border: 1px solid #e0e0e0;
-  border-radius: 10px;
-  margin-bottom: 20px;
-  clear: both;
-}
-
 .buttonBox {
   color: #676767;
   font-size: 11px;
@@ -67,17 +55,8 @@
 }
 
 button {
-  width:100%;
-  height:80px;
-  position:relative;
   background:rgba(55, 55, 55, .27);
-  text-transform:uppercase;
-  font-weight:700;
   letter-spacing:1px;
-  border:none;
-  font-size:15px;
-  outline:none;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   cursor: pointer;
 }
 
