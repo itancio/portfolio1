@@ -50,6 +50,13 @@
   clear: both;
 }
 
+.contentBox {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
 .buttonBox {
   margin: 0 20px 40px;
   position:relative;
