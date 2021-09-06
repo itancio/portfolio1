@@ -18,7 +18,7 @@
   </div>
  
   <div id="ninth" class="buttonBox">
-    <button> Contack </button>
+    <button> Contact </button>
   </div>
 </div>
 
