@@ -73,6 +73,7 @@
 
 .show:hover + .hide {
   display: block;
+  font-size: 11px;
 }
   
 /* menu button */
