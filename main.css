@@ -124,7 +124,7 @@
   filter: blur(1px);
   width: calc(100% + 2px);
   height: calc(100% + 2px);
-  animation: glowing 10s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  animation: glowing 10s cubic-bezier(0.25, 0.46, 0.45, 0.94) infinite;
   opacity: 0;
   transition: opacity .5s ease-in-out;
   border-radius: 10px;
