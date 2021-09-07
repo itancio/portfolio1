@@ -11,8 +11,9 @@
     <button class="glow-on-hover" type="button">Linkedin</button>
   </a>
   
-  <a href="" target="_blank">
+  <a href="">
     <button class="glow-on-hover" type="button">Contact</button>
+    :after
   </a>
   
 </div>
