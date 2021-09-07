@@ -85,15 +85,15 @@
 /* title grid */
 .title {
 display: grid;
-grid-template-columns: 3fr 1fr;
+grid-template-columns: 2fr 1fr;
 grid-template-rows: 1fr;
 grid-column-gap: 0px;
 grid-row-gap: 0px;
 }
 
-.name { grid-area: 1 / 1 / 2 / 4; }
-.logo { grid-area: 1 / 1 / 2 / 3; }
-  
+.name { grid-area: 1 / 1 / 2 / 3; }
+.logo { grid-area: 1 / 1 / 2 / 4; }
+
 /* menu button */
 .menu {
   display: grid;
