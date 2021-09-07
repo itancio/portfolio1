@@ -4,11 +4,11 @@
 
 <div class="menu">
   <a href="Resume8_IrvinTancioco-3.pdf" target="_blank">
-    <button class="glow-on-hover" type="button">RESUME</button>
+    <button class="glow-on-hover" type="button">Resume</button>
   </a>
  
   <a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">
-    <button class="glow-on-hover" type="button">LINKEDIN</button>
+    <button class="glow-on-hover" type="button">Linkedin</button>
   </a>
   
   <a href="">
