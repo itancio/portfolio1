@@ -114,16 +114,18 @@ button {
 
 /* Glow Effect button */
 .glow-on-hover {
-    width: 33%;
+    width: 100%;
     height: 30px;
     border: none;
     outline: none;
     color: #393939;
     background: #f7f9fa;
+    border-color:
     cursor: pointer;
     position: relative;
     z-index: 0;
     border-radius: 10px;
+    border: 1px solid #dae2e6;
 }
 
 .glow-on-hover:before {
