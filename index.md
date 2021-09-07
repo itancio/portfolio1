@@ -12,7 +12,7 @@
   </a>
   
   <a href="">
-    <button class="glow-on-hover" type="button">itancio@berkeley[dot]edu</button>
+    <button class="glow-on-hover" type="button">Contact</button>
   </a>
   
 </div>
