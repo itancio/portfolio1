@@ -13,7 +13,6 @@
   
   <a href="">
     <button class="glow-on-hover" type="button">Contact</button>
-    :after
   </a>
   
 </div>
