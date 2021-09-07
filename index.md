@@ -76,7 +76,7 @@ Webmaster / Web Designer (5 years).
 <br>
 
 <div class="gallery">
-  <div class="border-round glow-on-hover" margin=20 width=10>
+  <div class="border-round" margin=20 width=10>
     <h4> Cookie Monster </h4>
     <p><img class="side" src="img/cookiemonster.png">
        <div class="cell"> Programming Language: Java </div>
@@ -87,7 +87,7 @@ Webmaster / Web Designer (5 years).
     </p>
   </div>
  
-   <div class="border-round glow-on-hover"> 
+   <div class="border-round"> 
     <h4> Gitlet </h4>
     <p><img class="side" src="img/gitlet.png">
        <div class="cell"> Programming Language: Java </div>
