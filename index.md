@@ -4,15 +4,15 @@
 
 <div class="menu">
   <a href="Resume8_IrvinTancioco-3.pdf" target="_blank">
-    <button class="glow-on-hover" type="button">Resume</button>
+    <button class="glow-on-hover glow" type="button">Resume</button>
   </a>
  
   <a href="https://www.linkedin.com/in/irvintancioco/" target="_blank">
-    <button class="glow-on-hover" type="button">Linkedin</button>
+    <button class="glow-on-hover glow" type="button">Linkedin</button>
   </a>
   
   <a href="" class="regular">
-    <div class="show"><button class="glow-on-hover" type="button">Contact</button></div>
+    <div class="show"><button class="glow-on-hover glow" type="button">Contact</button></div>
     <div class="hide">itancio@berkeley[dot]edu</div>
   </a>
   
