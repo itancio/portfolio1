@@ -12,7 +12,8 @@
   </a>
   
   <a href="">
-    <button class="glow-on-hover" type="button">Contact</button>
+    <button class="glow-on-hover show" type="button">Contact</button>
+    <div class="hide">itancio@berkeley[dot]edu</div>
   </a>
   
 </div>
