@@ -109,12 +109,12 @@
     left:-1px;
     background-size: 200%;
     z-index: -1;
-    filter: blur(5px);
+    filter: blur(1px);
     width: calc(100% + 2px);
     height: calc(100% + 2px);
-    animation: glowing 10s linear infinite;
+    animation: glowing 10s cubic-bezier(0.25, 0.46, 0.45, 0.94);
     opacity: 0;
-    transition: opacity 1s ease-in-out;
+    transition: opacity .5s ease-in-out;
     border-radius: 10px;
 }
 
