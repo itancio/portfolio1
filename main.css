@@ -81,12 +81,10 @@
 .glow-on-hover {
     width: 100%;
     height: 30px;
-    border: none;
     outline: none;
     color: #dae2e6;
     font-size: 11px;
     background: #f7f9fa;
-    border-color:
     cursor: pointer;
     position: relative;
     z-index: 0;
