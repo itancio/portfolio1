@@ -92,9 +92,11 @@
 }
 
 .name { 
-  grid-area: 1 / 1; }
+  grid-area: 1 / 1; 
+}
+
 .logo { 
-  grid-area: 1 / 2 / 3 /4;
+  grid-area: 1 / 2 /4;
   float: right; 
 }
 
