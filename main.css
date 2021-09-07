@@ -111,6 +111,7 @@
 .glow {
   background: none;
   border: none;
+  border-radius: 0px;
 }
 
 .glow-on-hover:before {
