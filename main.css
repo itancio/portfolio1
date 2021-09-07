@@ -112,6 +112,7 @@
   background: none;
   border: none;
   border-radius: 0px;
+  background-color: #267cb9;
 }
 
 .glow-on-hover:before {
