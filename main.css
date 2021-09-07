@@ -81,6 +81,18 @@
   display: block;
   font-size: 11px;
 }
+
+/* title grid */
+.title {
+display: grid;
+grid-template-columns: 3fr 1fr;
+grid-template-rows: 1fr;
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+}
+
+.name { grid-area: 1 / 1 / 2 / 4; }
+.logo { grid-area: 1 / 1 / 2 / 3; }
   
 /* menu button */
 .menu {
