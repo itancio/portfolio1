@@ -1,8 +1,8 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 
 <br>
-<br>
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
+<br>
 
 <div class="menu">
   <a href="Resume8_IrvinTancioco-3.pdf" target="_blank">
