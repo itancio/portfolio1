@@ -1,5 +1,7 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 
+<br>
+<br>
 <h2 id="Top"> Electrical Engineering and Computer Science Student</h2>
 
 <div class="menu">
