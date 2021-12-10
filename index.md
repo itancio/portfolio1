@@ -24,7 +24,7 @@
 <br>
 
 <span>
-I am an EECS student at the Universtiy of California, Berkeley (Class 2022). I will be taking Optimization Models, Machine Structure, Efficient Algorithm, Machine Learning, Introduction to Robotics and User Interface. I am interested in exploring the application of Machine Learning in robotics, VR/AR/MR, and graphics/art.
+I am an EECS student at the Universtiy of California, Berkeley (Class 2022). I am interested in designing experiences using technology. 
 <strong> Experience: </strong>
 Tax Preparer: Self-Employed (5+ years). 
  Lead Teacher Aide: City College of San Francisco (8 months).
@@ -50,6 +50,9 @@ Webmaster / Web Designer (5 years).
   </li>
  
   <li><u>CS70: Discrete Mathematics and Probability Theory:</u>  Proofs, Counting, Probability, Discrete and Continuous Distributions, Markov Chain
+  </li>
+  
+  <li><u>EECS127: Optimization models in Engineering:</u> This is an introduction to optimization models and their applications in machine learning, linear programming and duality.
   </li>
  
   <li><u>Engineering Lab:</u>  Reading schematics, debugging circuits, and using multimeter, soldering and building simple circuitry.
