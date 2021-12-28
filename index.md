@@ -24,12 +24,12 @@
 <br>
 
 <span>
-I am an EECS student at the Universtiy of California, Berkeley (Class 2022). I am interested in designing experiences using technology. 
+I am an EECS student at the Universtiy of California, Berkeley (Class 2023). I am interested in designing experiences using technology. 
 <strong> Experience: </strong>
 Tax Preparer: Self-Employed (5+ years). 
  Lead Teacher Aide: City College of San Francisco (8 months).
 <strong>Education: </strong>
-University of California, Berkeley: (EECS, Class 2022).
+University of California, Berkeley: (EECS, Class 2023).
 City College of San Francisco: Associates Degree in Computer Science and Mathematics.
 <strong> Volunteer: </strong>
 Webmaster / Web Designer (5 years).
