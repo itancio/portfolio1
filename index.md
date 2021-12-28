@@ -32,7 +32,7 @@ Tax Preparer: Self-Employed (5+ years).
 University of California, Berkeley: (EECS, Class 2023).
 City College of San Francisco: Associates Degree in Computer Science and Mathematics.
 <strong> Volunteer: </strong>
-Webmaster / Web Designer (5 years).
+Webmaster / Web Designer.
  <strong>Interests: </strong>
  I am an enthusiast of yoga, dance, food, art, fashion, travel and technology.
 </span>
