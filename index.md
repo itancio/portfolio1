@@ -83,7 +83,7 @@ Webmaster / Web Designer.
 <div class="gallery">
   <div class="border-round"> 
     <h4> CS195 Game Development Project Puzzle </h4>
-    <p><img class="side" src="img/ants.png">
+    <p><img class="side" src="img/puzzle.jpeg">
        <div class="cell"> Programming Language: C++ </div>
     </p>
     <p>Project Description: Puzzle/Strategy game. Work-in-progress
@@ -93,10 +93,10 @@ Webmaster / Web Designer.
   
    <div class="border-round"> 
     <h4> IOS App Development </h4>
-    <p><img class="side" src="img/ants.png">
+    <p><img class="side" src="img/app.png">
        <div class="cell"> Programming Language: Swift </div>
     </p>
-    <p>Project Description: 
+    <p>Project Description: Work-in-progress
 
    </p>
   </div>
