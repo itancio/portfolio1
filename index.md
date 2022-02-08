@@ -87,6 +87,9 @@ Webmaster / Web Designer.
        <div class="cell"> Programming Language: C++ </div>
     </p>
     <p>Project Description: Puzzle/Strategy game. Work-in-progress
+    <p> "                                                          
+        "
+    </p>
     <a href="https://github.com/itancio/cs195-project" target="_blank"> github link </a>
    </p>
   </div>
@@ -97,6 +100,9 @@ Webmaster / Web Designer.
        <div class="cell"> Programming Language: Swift </div>
     </p>
     <p>Project Description: Work-in-progress
+    <p> "                                                          
+        "
+    </p>
 
    </p>
   </div>
