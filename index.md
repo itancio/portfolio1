@@ -81,6 +81,26 @@ Webmaster / Web Designer.
 <br>
 
 <div class="gallery">
+  <div class="border-round"> 
+    <h4> CS195 Game Development Project Puzzle </h4>
+    <p><img class="side" src="img/ants.png">
+       <div class="cell"> Programming Language: C++ </div>
+    </p>
+    <p>Project Description: Puzzle/Strategy game. Work-in-progress
+    <a href="https://github.com/itancio/cs195-project" target="_blank"> github link </a>
+   </p>
+  </div>
+  
+   <div class="border-round"> 
+    <h4> IOS App Development </h4>
+    <p><img class="side" src="img/ants.png">
+       <div class="cell"> Programming Language: Swift </div>
+    </p>
+    <p>Project Description: 
+
+   </p>
+  </div>
+  
   <div class="border-round" margin=20 width=10>
     <h4> Cookie Monster </h4>
     <p><img class="side" src="img/cookiemonster.png">
