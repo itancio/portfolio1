@@ -82,15 +82,14 @@ Webmaster / Web Designer.
 
 <div class="gallery">
   <div class="border-round"> 
-    <h4> CS195 Game Development Project Puzzle </h4>
+    <h4> Sokoban</h4>
     <p><img class="side" src="img/puzzle.jpg">
        <div class="cell"> Programming Language: C++ </div>
     </p>
-    <p>Project Description: Puzzle/Strategy game. Work-in-progress
-    <p> "                                                          
-        "
+    <p>Project Description: This is a c++ version of the classic Sokoban game. I worked on the backend implementation of the game. One of the function <code>move(x, y)</code> uses a breadth first search that moves the player to a valid destination optimally.
     </p>
     <a href="https://github.com/itancio/cs195-project" target="_blank"> github link </a>
+    <a href="https://itancio.github.io/sokoban/" target="_blank">  |   play game </a>
    </p>
   </div>
   
