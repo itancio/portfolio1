@@ -86,8 +86,7 @@ Webmaster / Web Designer.
     <p><img class="side" src="img/puzzle.jpg">
        <div class="cell"> Programming Language: C++ </div>
     </p>
-    <p>Project Description: This is a c++ version of the classic Sokoban game. I worked on the backend implementation of the game. One of the function <code>move(x, y)</code> uses a breadth first search that moves the player to a valid destination optimally.
-    </p>
+    <p>Project Description: This is a c++ version of the classic Sokoban game. I worked on the backend implementation of the game and wrote unit tests. One of the function <code>move(x, y)</code> uses a breadth first search that moves the player to a valid destination optimally.
     <a href="https://github.com/itancio/cs195-project" target="_blank"> github link </a>
     <a href="https://itancio.github.io/sokoban/" target="_blank">  |   play game </a>
    </p>
