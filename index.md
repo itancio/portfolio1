@@ -58,7 +58,7 @@ Webmaster / Web Designer.
   <li><u>Engineering Lab:</u>  Reading schematics, debugging circuits, and using multimeter, soldering and building simple circuitry.
   </li>
   
-   <li><u>CS165: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
+   <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
   </li>
 </ul>
 
