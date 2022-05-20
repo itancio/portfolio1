@@ -57,6 +57,9 @@ Webmaster / Web Designer.
  
   <li><u>Engineering Lab:</u>  Reading schematics, debugging circuits, and using multimeter, soldering and building simple circuitry.
   </li>
+  
+   <li><u>CS165: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
+  </li>
 </ul>
 
 <br>
@@ -83,7 +86,7 @@ Webmaster / Web Designer.
 <div class="gallery">
   <div class="border-round"> 
     <h4> Sokoban</h4>
-    <p><img class="side" src="img/puzzle.jpg">
+    <p><img class="side" src="img/sokoban.png">
        <div class="cell"> Programming Language: C++ </div>
     </p>
     <p>Project Description: This is a c++ version of the classic Sokoban game. I worked on the backend implementation of the game and wrote unit tests. One of the function <code>move(x, y)</code> uses a breadth first search that moves the player to a valid destination optimally.
