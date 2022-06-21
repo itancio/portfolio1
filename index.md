@@ -95,22 +95,6 @@ Webmaster / Web Designer.
    </p>
   </div>
   
-   <div class="border-round"> 
-    <h4> IOS App Development </h4>
-    <p><img class="side" src="img/app.jpg">
-       <div class="cell"> Programming Language: Swift </div>
-    </p>
-    <p>Project Description: Work-in-progress
-    <p> "                                                          
-        "
-    </p>
-    <p> "                                                          
-        "
-    </p>
-
-   </p>
-  </div>
-  
   <div class="border-round" margin=20 width=10>
     <h4> Cookie Monster </h4>
     <p><img class="side" src="img/cookiemonster.png">
