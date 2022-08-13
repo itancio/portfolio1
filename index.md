@@ -5,7 +5,7 @@
 <br>
 
 <div class="menu">
-  <a href="Resume8_IrvinTancioco-3.pdf" target="_blank">
+  <a href="Resume10_IrvinTancioco-1.pdf" target="_blank">
     <button class="glow-on-hover glow" type="button">Resume</button>
   </a>
  
@@ -43,6 +43,21 @@ Webmaster / Web Designer.
 <h2 id="Coursework"> Coursework </h2>
 
 <ul>
+ <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
+ </li>
+ 
+ <li><u>EE120: Signals and Systems</u>
+ </li>
+  
+ <li><u>CS170: Algorithms and Intractable Problems</u>
+ </li>
+ 
+ <li><u>DESINV 15: Design Methodology</u>
+ </li>
+  
+ <li><u>EECS127: Optimization models in Engineering:</u> This is an introduction to optimization models and their applications in machine learning, linear programming and duality.
+ </li>
+  
  <li><u>CS61ABC: Structure and Interpretation of Computer Programs, Data Structure and Machine Architecture:</u>  Abstraction, Handling Complexity and Data Structures. The class aims to expose students to problem solving techniques in improving the efficiency and handling complexity of computer programs. The class focuses in understanding machine architecture and assembly. The class also teaches the basics of computer languages (python, java, C) to demonstrate understanding of the class's core learning objectives.
   </li>
  
@@ -51,14 +66,8 @@ Webmaster / Web Designer.
  
   <li><u>CS70: Discrete Mathematics and Probability Theory:</u>  Proofs, Counting, Probability, Discrete and Continuous Distributions, Markov Chain
   </li>
-  
-  <li><u>EECS127: Optimization models in Engineering:</u> This is an introduction to optimization models and their applications in machine learning, linear programming and duality.
-  </li>
  
   <li><u>Engineering Lab:</u>  Reading schematics, debugging circuits, and using multimeter, soldering and building simple circuitry.
-  </li>
-  
-   <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
   </li>
 </ul>
 
