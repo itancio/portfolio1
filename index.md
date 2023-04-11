@@ -198,7 +198,7 @@ Webmaster / Web Designer.
 <div class="border-round"> 
   <h4> Eco-text </h4>
   <p><img class="side" src="img/eco-tex.png">
-  Project Description: The primary goal of the project is to respond to the devastating impact of fast fashion industries in producing textile waste, such as microplastics from synthetic fibers. The objective of this project is to utilize the design methodology: understanding and empathizing with the user; defining a problem statement; ideating ideas through abstract laddering, creative matrix; prototyping product and user testing. 
+  Project Description: The primary goal of the project is to respond to the devastating impact of fast fashion industries in producing textile waste, such as microplastics from synthetic fibers. Our team utilizes the design methodology: understanding and empathizing with the user; defining a problem statement; ideating ideas through abstract laddering, creative matrix; prototyping product and user testing.
   <a href="https://eco-tex.weebly.com/" target="_blank"> Eco-tex link </a>
   </p>
 </div>
