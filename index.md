@@ -41,6 +41,7 @@ Webmaster / Web Designer.
 
 <!-- Coursework-->
 <h2 id="Coursework"> Coursework </h2>
+<ul>
  <li><u>DESINV 25: UX Design</u>
  </li>
  
@@ -55,7 +56,7 @@ Webmaster / Web Designer.
  
  <li><u>DESINV 15: Design Methodology</u>
  </li>
-<ul>
+
  <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
  </li>
  
@@ -192,7 +193,6 @@ Webmaster / Web Designer.
   Project Description: This is a user experience design mock up for UC Berkeley's student portal, CalCentral. We identify some of the design flaws and apply the Gestalt's principle in design (similarity, proximity, continuity) and user-experience design principles (consistency, hierarchy, user control and freedom)
   <a href="https://www.behance.net/gallery/167009587/CalCentral-Redesign" target="_blank"> behance link</a>
   </p>
-  <br><br>
 </div>
 
 <div class="border-round"> 
@@ -201,7 +201,6 @@ Webmaster / Web Designer.
   Project Description: The primary goal of the project is to respond to the devastating impact of fast fashion industries in producing textile waste, such as microplastics from synthetic fibers. The objective of this project is to utilize the design methodology: understanding and empathizing with the user; defining a problem statement; ideating ideas through abstract laddering, creative matrix; prototyping product and user testing. 
   <a href="https://eco-tex.weebly.com/" target="_blank"> Eco-tex link </a>
   </p>
-  <br><br>
 </div>
 
 <div class="gallery">
