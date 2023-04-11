@@ -41,18 +41,25 @@ Webmaster / Web Designer.
 
 <!-- Coursework-->
 <h2 id="Coursework"> Coursework </h2>
-
+ <li><u>DESINV 25: UX Design</u>
+ </li>
+ 
+ <li><u>CS188: Artificial Intelligence</u>
+ </li>
+ 
+ <li><u>CS161: Computer Security</u>
+ </li>
+ 
+ <li><u>CS170: Algorithms and Intractable Problems</u>
+ </li>
+ 
+ <li><u>DESINV 15: Design Methodology</u>
+ </li>
 <ul>
  <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
  </li>
  
  <li><u>EE120: Signals and Systems</u>
- </li>
-  
- <li><u>CS170: Algorithms and Intractable Problems</u>
- </li>
- 
- <li><u>DESINV 15: Design Methodology</u>
  </li>
   
  <li><u>EECS127: Optimization models in Engineering:</u> This is an introduction to optimization models and their applications in machine learning, linear programming and duality.
@@ -178,6 +185,24 @@ Webmaster / Web Designer.
 <!-- Project Graphics -->
 <h2 id="Design"> Design </h2>
 <br>
+
+<div class="border-round"> 
+  <h4> Cal-Central Redesign </h4>
+  <p><img class="side" src="img/eco-tex.png">
+  Project Description: This is a user experience design mock up for UC Berkeley's student portal, CalCentral. We identify some of the design flaws and apply the Gestalt's principle in design (similarity, proximity, continuity) and user-experience design principles (consistency, hierarchy, user control and freedom)
+  <a href="https://www.behance.net/gallery/167009587/CalCentral-Redesign" target="_blank"> behance link</a>
+  </p>
+  <br><br><br><br><br><br>
+</div>
+
+<div class="border-round"> 
+  <h4> Eco-text </h4>
+  <p><img class="side" src="img/eco-tex.png">
+  Project Description: The primary goal of the project is to respond to the devastating impact of fast fashion industries in producing textile waste, such as microplastics from synthetic fibers. The objective of this project is to utilize the design methodology: understanding and empathizing with the user; defining a problem statement; ideating ideas through abstract laddering, creative matrix; prototyping product and user testing. 
+  <a href="https://eco-tex.weebly.com/" target="_blank"> Eco-tex link </a>
+  </p>
+  <br><br><br><br><br><br>
+</div>
 
 <div class="gallery">
   <div class="thumbnail short mouse"><a href="img/maker1.png" target="_blank">
