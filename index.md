@@ -188,7 +188,7 @@ Webmaster / Web Designer.
 
 <div class="border-round"> 
   <h4> Cal-Central Redesign </h4>
-  <p><img class="side" src="img/eco-tex.png">
+  <p><img class="side" src="img/calcentral.png">
   Project Description: This is a user experience design mock up for UC Berkeley's student portal, CalCentral. We identify some of the design flaws and apply the Gestalt's principle in design (similarity, proximity, continuity) and user-experience design principles (consistency, hierarchy, user control and freedom)
   <a href="https://www.behance.net/gallery/167009587/CalCentral-Redesign" target="_blank"> behance link</a>
   </p>
