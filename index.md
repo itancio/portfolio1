@@ -101,6 +101,28 @@ Webmaster / Web Designer.
 <br>
 
 <div class="gallery">
+    <div class="border-round"> 
+    <h4> End-to-End Encryption File Sharing</h4>
+    <p><img class="side" src="">
+       <div class="cell"> Programming Language: Golang </div>
+    </p>
+    <p>Project Description: COMING SOON. This is an end-to-end encryption file sharing system. Implemented 8 user functions: initUser, GetUser, user.storeFile, user.loadFile, user.appendFile, user.createInvitation, user.acceptInvitation, user.revokeAccess. </p>
+    <a href="" target="_blank"> github link </a>
+   </p>
+  </div>
+  
+  <div class="gallery">
+    <div class="border-round"> 
+    <h4> Artificial Intelligence: Pacman</h4>
+    <p><img class="side" src="">
+       <div class="cell"> Programming Language: Python </div>
+    </p>
+    <p>Project Description: COMING SOON. </p>
+    <a href="" target="_blank"> github link </a>
+   </p>
+  </div>
+  
+  
   <div class="border-round"> 
     <h4> Sokoban</h4>
     <p><img class="side" src="img/sokoban.png">
@@ -192,6 +214,14 @@ Webmaster / Web Designer.
   <p><img class="side" src="img/calcentral.png">
   Project Description: This is a user experience design mock up for UC Berkeley's student portal, CalCentral. We identify some of the design flaws and apply the Gestalt's principle in design (similarity, proximity, continuity) and user-experience design principles (consistency, hierarchy, user control and freedom)
   <a href="https://www.behance.net/gallery/167009587/CalCentral-Redesign" target="_blank"> behance link</a>
+  </p>
+</div>
+
+<div class="border-round"> 
+  <h4> Fruitful Mind </h4>
+  <p><img class="side" src="img/calcentral.png">
+  Project Description: COMING SOON
+  <a href="https://www.figma.com/proto/eQYfEQiJai68B68lXl8ClT/Mental-Health-(w%2FJason)?type=design&node-id=70-6549&scaling=min-zoom&page-id=10%3A163" target="_blank"> figma link</a>
   </p>
 </div>
 
