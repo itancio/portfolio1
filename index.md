@@ -215,7 +215,7 @@ Webmaster / Web Designer.
  <li><u>DESINV 25: UX Design</u> This studio course introduces students to design thinking and the basic practices of human-centered interaction design that includes user research, concept generation, low to high fidelity prototypes and persona creation.
  </li>
   
- <li><u>DESINV 15: Design Methodology</u>
+ <li><u>DESINV 15: Design Methodology</u>  This course teaches techniques for observing and noticing, framing and reframing problems, generating ideas and designs, and conducting experiments and tests.
  </li>
 
  <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
