@@ -24,7 +24,7 @@
 <br>
 
 <span>
-I am a recent EECS graudate at the Universtiy of California, Berkeley (Class 2023). I am interested in designing experiences using technology. 
+I am a recent EECS graduate at the Universtiy of California, Berkeley (Class 2023). I am interested in designing experiences using technology. 
 <strong> Experience: </strong>. 
  Lead Teacher Aide: City College of San Francisco (8 months).
 <strong>Education: </strong>
