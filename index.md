@@ -36,49 +36,6 @@ Webmaster / Web Designer.
 
 <br>
 
-<!-- Coursework-->
-<h2 id="Coursework"> Coursework </h2>
-<ul>
- <li><u>CS188: Artificial Intelligence</u> This is an introduction course in understanding the fundemantal concepts of underlying design models in AI, with emphasis in probabilitic and decision-making models. The projects build upon the course core concepts of using inferences, reward and utility functions to draw decisions in an observed and unobserved environments. Topics covered: Bayes Net, Markov Decision Processes, Reinforcement Learning, Perceptron, etc.
- </li>
-  
- <li><u>CS161: Computer Security</u> The course focuses on foundational ideas in cyptography (encryption, authentication, hash functions, and cryptographic protocols), Network and software securities. The projects involve infiltrating vulnerabilities in operating systems (buffer overflows, canary leaks, off-by-one, integer memory and formatting vulnerabilities), designing an end-to-end encryption file sharing system and breaking webserver security.  
- </li>
- 
- <li><u>CS170: Algorithms and Intractable Problems</u> The course covers design and analysis of graph algorithms, greedy algorithms, dynammic programming, linear programming, Fourier transforms, complexity and NP-completeness.
- </li>
- 
- <li><u>DESINV 25: UX Design</u>
- </li>
-  
- <li><u>DESINV 15: Design Methodology</u>
- </li>
-
- <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
- </li>
- 
- <li><u>EECS127: Optimization models in Engineering:</u> This is an introduction to optimization models and their applications in machine learning, linear programming and duality.
- </li>
-  
- <li><u>EE120: Signals and Systems</u>
- </li>
-  
-
-  
- <li><u>CS61ABC: Structure and Interpretation of Computer Programs, Data Structure and Machine Architecture:</u>  Abstraction, Handling Complexity and Data Structures. The class aims to expose students to problem solving techniques in improving the efficiency and handling complexity of computer programs. The class focuses in understanding machine architecture and assembly. The class also teaches the basics of computer languages (python, java, C) to demonstrate understanding of the class's core learning objectives.
-  </li>
- 
-  <li><u>CS16AB: Designing Information Devices and Systems:</u>  Linear Algebra, Gram-Schmidt, Eigenvalues, Least Squares, SVD (Single Value Decomposition), PCA (Principal Component Analysis). The objective of the class is to introduce students to the basics of linear algebra and how this foundational mathematics drive the basic concept of modeling and optimization in machine learning.
-  </li>
- 
-  <li><u>CS70: Discrete Mathematics and Probability Theory:</u>  Proofs, Counting, Probability, Discrete and Continuous Distributions, Markov Chain
-  </li>
- 
-  <li><u>Engineering Lab:</u>  Reading schematics, debugging circuits, and using multimeter, soldering and building simple circuitry.
-  </li>
-</ul>
-
-<br>
 
 <!-- Tools -->
 <h2 id="Tools"> Tools </h2>
@@ -242,6 +199,50 @@ Webmaster / Web Designer.
   <div class="thumbnail mouse"><a href="img/trendbrasil.png" target="_blank">
     <img src="img/trendbrasil.png"></a></div>
 </div>
+
+<!-- Coursework-->
+<h2 id="Coursework"> Coursework </h2>
+<ul>
+ <li><u>CS188: Artificial Intelligence</u> This is an introduction course in understanding the fundemantal concepts of underlying design models in AI, with emphasis in probabilitic and decision-making models. The projects build upon the course core concepts of using inferences, reward and utility functions to draw decisions in an observed and unobserved environments. Topics covered: Bayes Net, Markov Decision Processes, Reinforcement Learning, Perceptron, etc.
+ </li>
+  
+ <li><u>CS161: Computer Security</u> The course focuses on foundational ideas in cyptography (encryption, authentication, hash functions, and cryptographic protocols), Network and software securities. The projects involve infiltrating vulnerabilities in operating systems (buffer overflows, canary leaks, off-by-one, integer memory and formatting vulnerabilities), designing an end-to-end encryption file sharing system and breaking webserver security.  
+ </li>
+ 
+ <li><u>CS170: Algorithms and Intractable Problems</u> The course covers design and analysis of graph algorithms, greedy algorithms, dynammic programming, linear programming, Fourier transforms, complexity and NP-completeness.
+ </li>
+ 
+ <li><u>DESINV 25: UX Design</u>
+ </li>
+  
+ <li><u>DESINV 15: Design Methodology</u>
+ </li>
+
+ <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
+ </li>
+ 
+ <li><u>EECS127: Optimization models in Engineering:</u> This is an introduction to optimization models and their applications in machine learning, linear programming and duality.
+ </li>
+  
+ <li><u>EE120: Signals and Systems</u>
+ </li>
+  
+
+  
+ <li><u>CS61ABC: Structure and Interpretation of Computer Programs, Data Structure and Machine Architecture:</u>  Abstraction, Handling Complexity and Data Structures. The class aims to expose students to problem solving techniques in improving the efficiency and handling complexity of computer programs. The class focuses in understanding machine architecture and assembly. The class also teaches the basics of computer languages (python, java, C) to demonstrate understanding of the class's core learning objectives.
+  </li>
+ 
+  <li><u>CS16AB: Designing Information Devices and Systems:</u>  Linear Algebra, Gram-Schmidt, Eigenvalues, Least Squares, SVD (Single Value Decomposition), PCA (Principal Component Analysis). The objective of the class is to introduce students to the basics of linear algebra and how this foundational mathematics drive the basic concept of modeling and optimization in machine learning.
+  </li>
+ 
+  <li><u>CS70: Discrete Mathematics and Probability Theory:</u>  Proofs, Counting, Probability, Discrete and Continuous Distributions, Markov Chain
+  </li>
+ 
+  <li><u>Engineering Lab:</u>  Reading schematics, debugging circuits, and using multimeter, soldering and building simple circuitry.
+  </li>
+</ul>
+
+<br>
 
 
 
