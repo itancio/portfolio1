@@ -212,7 +212,7 @@ Webmaster / Web Designer.
  <li><u>CS170: Algorithms and Intractable Problems</u> The course covers design and analysis of graph algorithms, greedy algorithms, dynammic programming, linear programming, Fourier transforms, complexity and NP-completeness.
  </li>
  
- <li><u>DESINV 25: UX Design</u>
+ <li><u>DESINV 25: UX Design</u> This studio course introduces students to design thinking and the basic practices of human-centered interaction design that includes user research, concept generation, low to high fidelity prototypes and persona creation.
  </li>
   
  <li><u>DESINV 15: Design Methodology</u>
@@ -226,8 +226,6 @@ Webmaster / Web Designer.
   
  <li><u>EE120: Signals and Systems</u>
  </li>
-  
-
   
  <li><u>CS61ABC: Structure and Interpretation of Computer Programs, Data Structure and Machine Architecture:</u>  Abstraction, Handling Complexity and Data Structures. The class aims to expose students to problem solving techniques in improving the efficiency and handling complexity of computer programs. The class focuses in understanding machine architecture and assembly. The class also teaches the basics of computer languages (python, java, C) to demonstrate understanding of the class's core learning objectives.
   </li>
