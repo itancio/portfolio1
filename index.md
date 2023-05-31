@@ -175,7 +175,7 @@ Webmaster / Web Designer.
 
 <div class="border-round"> 
   <h4> Fruitful Mind </h4>
-  <p><img class="side" src="img/calcentral.png">
+  <p><img class="side" src="img/fruitfulMind.png">
   Project Description: COMING SOON
   <a href="https://www.figma.com/proto/eQYfEQiJai68B68lXl8ClT/Mental-Health-(w%2FJason)?type=design&node-id=70-6549&scaling=min-zoom&page-id=10%3A163" target="_blank"> figma link</a>
   </p>
