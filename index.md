@@ -24,17 +24,14 @@
 <br>
 
 <span>
-I am an EECS student at the Universtiy of California, Berkeley (Class 2023). I am interested in designing experiences using technology. 
-<strong> Experience: </strong>
-Tax Preparer: Self-Employed (5+ years). 
+I am a recent EECS graudate at the Universtiy of California, Berkeley (Class 2023). I am interested in designing experiences using technology. 
+<strong> Experience: </strong>. 
  Lead Teacher Aide: City College of San Francisco (8 months).
 <strong>Education: </strong>
 University of California, Berkeley: (EECS, Class 2023).
 City College of San Francisco: Associates Degree in Computer Science and Mathematics.
-<strong> Volunteer: </strong>
+<strong> Pro-bono: </strong>
 Webmaster / Web Designer.
- <strong>Interests: </strong>
- I am an enthusiast of yoga, dance, food, art, fashion, travel and technology.
 </span>
 
 <br>
@@ -42,29 +39,31 @@ Webmaster / Web Designer.
 <!-- Coursework-->
 <h2 id="Coursework"> Coursework </h2>
 <ul>
+ <li><u>CS188: Artificial Intelligence</u> This is an introduction course in understanding the fundemantal concepts of underlying design models in AI, with emphasis in probabilitic and decision-making models. The projects build upon the course core concepts of using inferences, reward and utility functions to draw decisions in an observed and unobserved environments. Topics covered: Bayes Net, Markov Decision Processes, Reinforcement Learning, Perceptron, etc.
+ </li>
+  
+ <li><u>CS161: Computer Security</u> The course focuses on foundational ideas in cyptography (encryption, authentication, hash functions, and cryptographic protocols), Network and software securities. The projects involve infiltrating vulnerabilities in operating systems (buffer overflows, canary leaks, off-by-one, integer memory and formatting vulnerabilities), designing an end-to-end encryption file sharing system and breaking webserver security.  
+ </li>
+ 
+ <li><u>CS170: Algorithms and Intractable Problems</u> The course covers design and analysis of graph algorithms, greedy algorithms, dynammic programming, linear programming, Fourier transforms, complexity and NP-completeness.
+ </li>
+ 
  <li><u>DESINV 25: UX Design</u>
  </li>
- 
- <li><u>CS188: Artificial Intelligence</u>
- </li>
- 
- <li><u>CS161: Computer Security</u>
- </li>
- 
- <li><u>CS170: Algorithms and Intractable Problems</u>
- </li>
- 
+  
  <li><u>DESINV 15: Design Methodology</u>
  </li>
 
  <li><u>CS195: Software Development practicum:</u>  The class fosters a collaborative project applying the different aspects of software development.
  </li>
  
+ <li><u>EECS127: Optimization models in Engineering:</u> This is an introduction to optimization models and their applications in machine learning, linear programming and duality.
+ </li>
+  
  <li><u>EE120: Signals and Systems</u>
  </li>
   
- <li><u>EECS127: Optimization models in Engineering:</u> This is an introduction to optimization models and their applications in machine learning, linear programming and duality.
- </li>
+
   
  <li><u>CS61ABC: Structure and Interpretation of Computer Programs, Data Structure and Machine Architecture:</u>  Abstraction, Handling Complexity and Data Structures. The class aims to expose students to problem solving techniques in improving the efficiency and handling complexity of computer programs. The class focuses in understanding machine architecture and assembly. The class also teaches the basics of computer languages (python, java, C) to demonstrate understanding of the class's core learning objectives.
   </li>
