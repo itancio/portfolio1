@@ -71,7 +71,7 @@ Webmaster / Web Designer.
   <div class="gallery">
     <div class="border-round"> 
     <h4> Artificial Intelligence: Pacman</h4>
-    <p><img class="side" src="">
+    <p><img class="side" src="img/5_busters.png">
        <div class="cell"> Programming Language: Python </div>
     </p>
     <p>Project Description: COMING SOON. </p>
