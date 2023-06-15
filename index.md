@@ -59,7 +59,7 @@ Webmaster / Web Designer.
 <div class="gallery">
     <div class="border-round"> 
     <h4> End-to-End Encryption File Sharing</h4>
-    <p><img class="side" src="">
+    <p><img class="side" src="img/encryption.png">
        <div class="cell"> Programming Language: Golang </div>
     </p>
     <p>Project Description: COMING SOON. This is an end-to-end encryption file sharing system. Implemented 8 user functions: initUser, GetUser, user.storeFile, user.loadFile, user.appendFile, user.createInvitation, user.acceptInvitation, user.revokeAccess. </p>
