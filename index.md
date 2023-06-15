@@ -40,6 +40,7 @@ Webmaster / Web Designer.
 <!-- Tools -->
 <h2 id="Tools"> Tools </h2>
 
+<img src="img/golang.png" width = "50">
 <img src="img/python.png" width = "50">
 <img src="img/java.png" width = "50">
 <img src="img/cplusplus.png" width = "50">
